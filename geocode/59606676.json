@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Augusto Corrêa",
+               "short_name" : "R. Augusto Corrêa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guamá",
+               "short_name" : "Guamá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pará",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66075-110",
+               "short_name" : "66075-110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Augusto Corrêa, 1 - Guamá, Belém - PA, 66075-110, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.4743965,
+               "lng" : -48.4532218
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.473047519708498,
+                  "lng" : -48.45187281970851
+               },
+               "southwest" : {
+                  "lat" : -1.475745480291502,
+                  "lng" : -48.4545707802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_2MSzJSNpJIRnqtBO7w1bh8",
+         "plus_code" : {
+            "compound_code" : "GGGW+6P Belém, State of Pará, Brazil",
+            "global_code" : "68CHGGGW+6P"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

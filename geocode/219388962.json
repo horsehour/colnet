@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "plac Uniwersytecki",
+               "short_name" : "plac Uniwersytecki",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stare Miasto",
+               "short_name" : "Stare Miasto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Województwo dolnośląskie",
+               "short_name" : "Województwo dolnośląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50-137",
+               "short_name" : "50-137",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "plac Uniwersytecki 1, 50-137 Wrocław, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1140053,
+               "lng" : 17.034463
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1153542802915,
+                  "lng" : 17.0358119802915
+               },
+               "southwest" : {
+                  "lat" : 51.1126563197085,
+                  "lng" : 17.0331140197085
+               }
+            }
+         },
+         "place_id" : "ChIJi7BXA9_pD0cRQzVsROEKOmk",
+         "plus_code" : {
+            "compound_code" : "427M+JQ Wrocław, Poland",
+            "global_code" : "9F3V427M+JQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Main",
+               "short_name" : "Old Main",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "State College",
+               "short_name" : "State College",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Centre County",
+               "short_name" : "Centre County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16801",
+               "short_name" : "16801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Main, State College, PA 16801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7982133,
+               "lng" : -77.85990839999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7995622802915,
+                  "lng" : -77.8585594197085
+               },
+               "southwest" : {
+                  "lat" : 40.7968643197085,
+                  "lng" : -77.86125738029151
+               }
+            }
+         },
+         "place_id" : "ChIJkQJdfySmzokRaYLkVpuOPq0",
+         "plus_code" : {
+            "compound_code" : "Q4XR+72 State College, Pennsylvania, United States",
+            "global_code" : "87G4Q4XR+72"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

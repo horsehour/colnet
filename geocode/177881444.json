@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sumner Hall",
+               "short_name" : "Sumner Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "333",
+               "short_name" : "333",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North College Way",
+               "short_name" : "N College Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Claremont",
+               "short_name" : "Claremont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91711",
+               "short_name" : "91711",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sumner Hall, 333 N College Way, Claremont, CA 91711, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0977458,
+               "lng" : -117.7118055
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0990947802915,
+                  "lng" : -117.7104565197085
+               },
+               "southwest" : {
+                  "lat" : 34.0963968197085,
+                  "lng" : -117.7131544802915
+               }
+            }
+         },
+         "place_id" : "ChIJRbagpr8xw4ARfqchaG3HTY0",
+         "plus_code" : {
+            "compound_code" : "37XQ+37 Claremont, California, United States",
+            "global_code" : "856437XQ+37"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

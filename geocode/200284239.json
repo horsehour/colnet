@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "0",
+               "short_name" : "0",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Praza do Obradoiro",
+               "short_name" : "Praza do Obradoiro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15705",
+               "short_name" : "15705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Praza do Obradoiro, 0, 15705 Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8885225,
+               "lng" : -8.544972599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8898714802915,
+                  "lng" : -8.543623619708498
+               },
+               "southwest" : {
+                  "lat" : 42.8871735197085,
+                  "lng" : -8.546321580291503
+               }
+            }
+         },
+         "place_id" : "ChIJpzwhoBL-Lg0R2jb7LybNuTw",
+         "plus_code" : {
+            "compound_code" : "VFQ4+C2 Santiago de Compostela, Spain",
+            "global_code" : "8CJHVFQ4+C2"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

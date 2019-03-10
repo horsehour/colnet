@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1954号",
+               "short_name" : "1954号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huashan Road",
+               "short_name" : "Huashan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "JiaoTong DaXue",
+               "short_name" : "JiaoTong DaXue",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui Qu",
+               "short_name" : "Xuhui Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200030",
+               "short_name" : "200030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1954 Huashan Rd, JiaoTong DaXue, Xuhui Qu, Shanghai Shi, China, 200030",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.201001,
+               "lng" : 121.432841
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2023499802915,
+                  "lng" : 121.4341899802915
+               },
+               "southwest" : {
+                  "lat" : 31.1996520197085,
+                  "lng" : 121.4314920197085
+               }
+            }
+         },
+         "place_id" : "ChIJM2MiazhlsjURxx2KHXj1pTk",
+         "plus_code" : {
+            "compound_code" : "6C2M+C4 Xuhui, Shanghai, China",
+            "global_code" : "8Q336C2M+C4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451811
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.07026998029149,
+                  "lng" : -118.4438321197085
+               },
+               "southwest" : {
+                  "lat" : 34.06757201970849,
+                  "lng" : -118.4465300802915
+               }
+            }
+         },
+         "place_id" : "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+         "plus_code" : {
+            "compound_code" : "3H93+HW Los Angeles, California, United States",
+            "global_code" : "85633H93+HW"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

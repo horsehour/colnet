@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oude Markt",
+               "short_name" : "Oude Markt",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leuven",
+               "short_name" : "Leuven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vlaams-Brabant",
+               "short_name" : "VB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaanderen",
+               "short_name" : "Vlaanderen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3000",
+               "short_name" : "3000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oude Markt 13, 3000 Leuven, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.87795449999999,
+               "lng" : 4.7002953
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.87930348029149,
+                  "lng" : 4.701644280291502
+               },
+               "southwest" : {
+                  "lat" : 50.8766055197085,
+                  "lng" : 4.698946319708497
+               }
+            }
+         },
+         "place_id" : "ChIJr_LUWthgwUcRLUQV28Mq9yw",
+         "plus_code" : {
+            "compound_code" : "VPH2+54 Leuven, Belgium",
+            "global_code" : "9F26VPH2+54"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

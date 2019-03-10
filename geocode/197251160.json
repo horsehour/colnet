@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jerusalem",
+               "short_name" : "Jerusalem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jerusalem",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.7945578,
+               "lng" : 35.2414009
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7959067802915,
+                  "lng" : 35.2427498802915
+               },
+               "southwest" : {
+                  "lat" : 31.7932088197085,
+                  "lng" : 35.2400519197085
+               }
+            }
+         },
+         "place_id" : "ChIJudcDcpEpAxURkFoyySVh0u0",
+         "plus_code" : {
+            "compound_code" : "Q6VR+RH Jerusalem, Israel",
+            "global_code" : "8G3QQ6VR+RH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

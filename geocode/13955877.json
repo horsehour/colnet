@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramat Gan",
+               "short_name" : "ר\"ג",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tel Aviv District",
+               "short_name" : "Tel Aviv District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5290002",
+               "short_name" : "5290002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramat Gan, 5290002, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0691989,
+               "lng" : 34.8430876
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0705478802915,
+                  "lng" : 34.84443658029149
+               },
+               "southwest" : {
+                  "lat" : 32.0678499197085,
+                  "lng" : 34.84173861970849
+               }
+            }
+         },
+         "place_id" : "ChIJS1dDumtKHRURxAjCqFDW770",
+         "plus_code" : {
+            "compound_code" : "3R9V+M6 Ramat Gan, Israel",
+            "global_code" : "8G4P3R9V+M6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

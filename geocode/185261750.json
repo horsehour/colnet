@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "301",
+               "short_name" : "301",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "120",
+               "short_name" : "120",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eglinton Avenue East",
+               "short_name" : "Eglinton Ave E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4P 1A6",
+               "short_name" : "M4P 1A6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "120 Eglinton Ave E #301, Toronto, ON M4P 1A6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7077119,
+               "lng" : -79.3949416
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7090608802915,
+                  "lng" : -79.39359261970849
+               },
+               "southwest" : {
+                  "lat" : 43.7063629197085,
+                  "lng" : -79.39629058029149
+               }
+            }
+         },
+         "place_id" : "ChIJr1wU1CQzK4gRcqVQAR9-7As",
+         "plus_code" : {
+            "compound_code" : "PJ54+32 Toronto, Ontario, Canada",
+            "global_code" : "87M2PJ54+32"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

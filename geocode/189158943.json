@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Festa del Perdono",
+               "short_name" : "Via Festa del Perdono",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milano",
+               "short_name" : "Milano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milano",
+               "short_name" : "Milano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Milano",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20122",
+               "short_name" : "20122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Festa del Perdono, 7, 20122 Milano MI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4601435,
+               "lng" : 9.194584299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4614924802915,
+                  "lng" : 9.1959332802915
+               },
+               "southwest" : {
+                  "lat" : 45.4587945197085,
+                  "lng" : 9.193235319708496
+               }
+            }
+         },
+         "place_id" : "ChIJ2XXmLabGhkcRc4-Fcl-Q9h0",
+         "plus_code" : {
+            "compound_code" : "F56V+3R Milan, Metropolitan City of Milan, Italy",
+            "global_code" : "8FQFF56V+3R"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

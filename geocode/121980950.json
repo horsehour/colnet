@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logan",
+               "short_name" : "Logan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cache County",
+               "short_name" : "Cache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84322",
+               "short_name" : "84322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Logan, UT 84322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.745161,
+               "lng" : -111.8097425
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7465099802915,
+                  "lng" : -111.8083935197085
+               },
+               "southwest" : {
+                  "lat" : 41.7438120197085,
+                  "lng" : -111.8110914802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7Uuo731-VIcRHL1k1uZNQPw",
+         "plus_code" : {
+            "compound_code" : "P5WR+34 Logan, Utah, United States",
+            "global_code" : "85HCP5WR+34"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

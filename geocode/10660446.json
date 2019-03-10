@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Xishan",
+               "short_name" : "Xishan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kunming",
+               "short_name" : "Kunming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "650221",
+               "short_name" : "650221",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Xishan, Kunming, China, 650221",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.023088,
+               "lng" : 102.682988
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0244369802915,
+                  "lng" : 102.6843369802915
+               },
+               "southwest" : {
+                  "lat" : 25.0217390197085,
+                  "lng" : 102.6816390197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5V01uYmD0DYR-uY3wUohciE",
+         "plus_code" : {
+            "compound_code" : "2MFM+65 Xishan, Kunming, Yunnan, China",
+            "global_code" : "7PQ42MFM+65"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

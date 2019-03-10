@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universiteto gatvė",
+               "short_name" : "Universiteto g.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus miesto savivaldybė",
+               "short_name" : "Vilniaus m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus apskritis",
+               "short_name" : "Vilniaus apskr.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01513",
+               "short_name" : "01513",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universiteto g. 3, Vilnius 01513, Lithuania",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6825757,
+               "lng" : 25.2876469
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6839246802915,
+                  "lng" : 25.2889958802915
+               },
+               "southwest" : {
+                  "lat" : 54.6812267197085,
+                  "lng" : 25.2862979197085
+               }
+            }
+         },
+         "place_id" : "ChIJYUy3mxaU3UYRC9C37O1_cMg",
+         "plus_code" : {
+            "compound_code" : "M7MQ+23 Vilnius, Lithuania",
+            "global_code" : "9G67M7MQ+23"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vokiečių gatvė",
+               "short_name" : "Vokiečių g.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus miesto savivaldybė",
+               "short_name" : "Vilniaus m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus apskritis",
+               "short_name" : "Vilniaus apskr.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01130",
+               "short_name" : "01130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vokiečių g. 10, Vilnius 01130, Lithuania",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6785203,
+               "lng" : 25.2843979
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.67986928029149,
+                  "lng" : 25.2857468802915
+               },
+               "southwest" : {
+                  "lat" : 54.6771713197085,
+                  "lng" : 25.2830489197085
+               }
+            }
+         },
+         "place_id" : "ChIJX4pOHRWU3UYRGmcqoqhF91A",
+         "plus_code" : {
+            "compound_code" : "M7HM+CQ Vilnius, Lithuania",
+            "global_code" : "9G67M7HM+CQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

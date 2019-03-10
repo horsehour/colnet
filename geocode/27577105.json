@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Road",
+               "short_name" : "College Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University College",
+               "short_name" : "University College",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Cork",
+               "short_name" : "County Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T12 K8AF",
+               "short_name" : "T12 K8AF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College Rd, University College, Cork, T12 K8AF, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.89211239999999,
+               "lng" : -8.493267099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.89346138029149,
+                  "lng" : -8.491918119708497
+               },
+               "southwest" : {
+                  "lat" : 51.89076341970849,
+                  "lng" : -8.494616080291502
+               }
+            }
+         },
+         "place_id" : "ChIJI8O7gCOQREgRkVJeg_BLik0",
+         "plus_code" : {
+            "compound_code" : "VGR4+RM Cork, County Cork, Ireland",
+            "global_code" : "9C3HVGR4+RM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

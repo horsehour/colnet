@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Leonardo da Vinci",
+               "short_name" : "Piazza Leonardo da Vinci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milano",
+               "short_name" : "Milano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milano",
+               "short_name" : "Milano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Milano",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20133",
+               "short_name" : "20133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Leonardo da Vinci, 32, 20133 Milano MI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.47809059999999,
+               "lng" : 9.228237699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.47943958029149,
+                  "lng" : 9.229586680291503
+               },
+               "southwest" : {
+                  "lat" : 45.47674161970849,
+                  "lng" : 9.226888719708498
+               }
+            }
+         },
+         "place_id" : "ChIJUxfRffbGhkcRdzNKd-H6MI4",
+         "plus_code" : {
+            "compound_code" : "F6HH+67 Milan, Metropolitan City of Milan, Italy",
+            "global_code" : "8FQFF6HH+67"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

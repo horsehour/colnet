@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South State Street",
+               "short_name" : "S State St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "500 S State St, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2780436,
+               "lng" : -83.7382241
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.27939258029149,
+                  "lng" : -83.73687511970849
+               },
+               "southwest" : {
+                  "lat" : 42.27669461970849,
+                  "lng" : -83.73957308029149
+               }
+            }
+         },
+         "place_id" : "ChIJARfe5ziuPIgR45fpeFFOoVs",
+         "plus_code" : {
+            "compound_code" : "77H6+6P Ann Arbor, Michigan, United States",
+            "global_code" : "86JR77H6+6P"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

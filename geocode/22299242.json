@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yoshidahonmachi",
+               "short_name" : "Yoshidahonmachi",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Sakyo Ward",
+               "short_name" : "Sakyo Ward",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606-8501",
+               "short_name" : "606-8501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yoshidahonmachi, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8501, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0262444,
+               "lng" : 135.7808218
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02759338029149,
+                  "lng" : 135.7821707802915
+               },
+               "southwest" : {
+                  "lat" : 35.0248954197085,
+                  "lng" : 135.7794728197085
+               }
+            }
+         },
+         "place_id" : "ChIJdUvW-1cIAWARQySM6vQekhE",
+         "plus_code" : {
+            "compound_code" : "2QGJ+F8 Kyoto, Kyoto Prefecture, Japan",
+            "global_code" : "8Q7Q2QGJ+F8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

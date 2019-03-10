@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haidian",
+               "short_name" : "Haidian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, Beijing, Haidian, 交大东路",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.952371,
+               "lng" : 116.347005
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9537199802915,
+                  "lng" : 116.3483539802915
+               },
+               "southwest" : {
+                  "lat" : 39.9510220197085,
+                  "lng" : 116.3456560197085
+               }
+            }
+         },
+         "place_id" : "ChIJB7ILvsdT8DURsGVy0Crf5cY",
+         "plus_code" : {
+            "compound_code" : "X82W+WR Haidian, Beijing, China",
+            "global_code" : "8PFRX82W+WR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

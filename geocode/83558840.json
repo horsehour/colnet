@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisbon",
+               "short_name" : "Lisbon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1070",
+               "short_name" : "1070",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "1070 Lisbon, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.733682,
+               "lng" : -9.160333
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7350309802915,
+                  "lng" : -9.158984019708496
+               },
+               "southwest" : {
+                  "lat" : 38.7323330197085,
+                  "lng" : -9.161681980291501
+               }
+            }
+         },
+         "place_id" : "ChIJCVYvFhMzGQ0R_QsqS6XZsIU",
+         "plus_code" : {
+            "compound_code" : "PRMQ+FV Lisbon, Portugal",
+            "global_code" : "8CCGPRMQ+FV"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisboa",
+               "short_name" : "Lisboa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1069-061",
+               "short_name" : "1069-061",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Berna 26 C, 1069-061 Lisboa, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.740502,
+               "lng" : -9.150926999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7418509802915,
+                  "lng" : -9.149578019708498
+               },
+               "southwest" : {
+                  "lat" : 38.7391530197085,
+                  "lng" : -9.152275980291503
+               }
+            }
+         },
+         "place_id" : "ChIJ0wuRxw4zGQ0RJU0gfinCJHc",
+         "plus_code" : {
+            "compound_code" : "PRRX+6J Lisbon, Portugal",
+            "global_code" : "8CCGPRRX+6J"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

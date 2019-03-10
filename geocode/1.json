@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza della Vittoria",
+               "short_name" : "Piazza della Vittoria",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pavia",
+               "short_name" : "Pavia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pavia",
+               "short_name" : "Pavia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Pavia",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27100",
+               "short_name" : "27100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza della Vittoria, 15, 27100 Pavia PV, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.1847365,
+               "lng" : 9.154241799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1860854802915,
+                  "lng" : 9.155590780291503
+               },
+               "southwest" : {
+                  "lat" : 45.1833875197085,
+                  "lng" : 9.152892819708498
+               }
+            }
+         },
+         "place_id" : "ChIJQ3AlCkUmh0cR_Y7EGfbm2hI",
+         "plus_code" : {
+            "compound_code" : "55M3+VM Pavia, Province of Pavia, Italy",
+            "global_code" : "8FQF55M3+VM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

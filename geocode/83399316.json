@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1230",
+               "short_name" : "1230",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "York Avenue",
+               "short_name" : "York Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10065",
+               "short_name" : "10065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1230 York Ave, New York, NY 10065, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7625706,
+               "lng" : -73.9556889
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7639195802915,
+                  "lng" : -73.95433991970849
+               },
+               "southwest" : {
+                  "lat" : 40.7612216197085,
+                  "lng" : -73.95703788029151
+               }
+            }
+         },
+         "place_id" : "ChIJjSuAGsNYwokRSi5irFmIJBI",
+         "plus_code" : {
+            "compound_code" : "Q27V+2P New York, United States",
+            "global_code" : "87G8Q27V+2P"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

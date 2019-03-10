@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Khalamish Street",
+               "short_name" : "Khalamish St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caesarea",
+               "short_name" : "Caesarea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hadera",
+               "short_name" : "Hadera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haifa District",
+               "short_name" : "Haifa District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khalamish St 9, Caesarea, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.4829836,
+               "lng" : 34.94766
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.48433258029149,
+                  "lng" : 34.9490089802915
+               },
+               "southwest" : {
+                  "lat" : 32.4816346197085,
+                  "lng" : 34.9463110197085
+               }
+            }
+         },
+         "place_id" : "ChIJ87w73tgNHRURiNXWInKOacg",
+         "plus_code" : {
+            "compound_code" : "FWMX+53 Caesarea, Israel",
+            "global_code" : "8G4PFWMX+53"
+         },
+         "types" : [ "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Weizmann Street",
+               "short_name" : "Weizmann St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tel Aviv-Yafo",
+               "short_name" : "Tel Aviv-Yafo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tel Aviv District",
+               "short_name" : "Tel Aviv District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weizmann St 6, Tel Aviv-Yafo, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0801258,
+               "lng" : 34.7898816
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.08147478029149,
+                  "lng" : 34.7912305802915
+               },
+               "southwest" : {
+                  "lat" : 32.07877681970849,
+                  "lng" : 34.7885326197085
+               }
+            }
+         },
+         "place_id" : "ChIJ552xgpBLHRURamrnUq-LWlc",
+         "plus_code" : {
+            "compound_code" : "3QJQ+3X Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QJQ+3X"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

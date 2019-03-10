@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "478",
+               "short_name" : "478",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ridge Road",
+               "short_name" : "Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridgeville",
+               "short_name" : "Ridgeville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorchester County",
+               "short_name" : "Dorchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29472",
+               "short_name" : "29472",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7830",
+               "short_name" : "7830",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "478 Ridge Rd, Ridgeville, SC 29472, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0871391,
+               "lng" : -80.34132819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0884880802915,
+                  "lng" : -80.3399792197085
+               },
+               "southwest" : {
+                  "lat" : 33.08579011970851,
+                  "lng" : -80.3426771802915
+               }
+            }
+         },
+         "place_id" : "ChIJlzeOmers_ogRuBWKdpdpjDw",
+         "plus_code" : {
+            "compound_code" : "3MP5+VF Ridgeville, South Carolina, United States",
+            "global_code" : "865X3MP5+VF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

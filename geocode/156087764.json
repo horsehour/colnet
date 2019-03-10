@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5200",
+               "short_name" : "5200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lake Road",
+               "short_name" : "Lake Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Merced",
+               "short_name" : "Merced",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merced County",
+               "short_name" : "Merced County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95343",
+               "short_name" : "95343",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5200 Lake Rd, Merced, CA 95343, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.3641651,
+               "lng" : -120.4254615
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3655140802915,
+                  "lng" : -120.4241125197085
+               },
+               "southwest" : {
+                  "lat" : 37.3628161197085,
+                  "lng" : -120.4268104802915
+               }
+            }
+         },
+         "place_id" : "ChIJMcWFC6xGkYAR1L94F6mnGWU",
+         "plus_code" : {
+            "compound_code" : "9H7F+MR Merced, California, United States",
+            "global_code" : "849X9H7F+MR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

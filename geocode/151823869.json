@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospekt Nezavisimosti",
+               "short_name" : "Prospekt Nezavisimosti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pieršamajski rajon",
+               "short_name" : "Pieršamajski rajon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Minsk",
+               "short_name" : "Minsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "220072",
+               "short_name" : "220072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospekt Nezavisimosti 66, Minsk 220072, Belarus",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.92054,
+               "lng" : 27.598327
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9218889802915,
+                  "lng" : 27.5996759802915
+               },
+               "southwest" : {
+                  "lat" : 53.9191910197085,
+                  "lng" : 27.59697801970849
+               }
+            }
+         },
+         "place_id" : "ChIJoYGHCQjP20YRlGGWrsDVBh4",
+         "plus_code" : {
+            "compound_code" : "WHCX+68 Minsk, Belarus",
+            "global_code" : "9G59WHCX+68"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

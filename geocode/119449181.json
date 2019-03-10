@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Planck-Ring",
+               "short_name" : "Max-Planck-Ring",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ilmenau",
+               "short_name" : "Ilmenau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilm-Kreis",
+               "short_name" : "Ilm-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Thüringen",
+               "short_name" : "TH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98693",
+               "short_name" : "98693",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Planck-Ring 14, 98693 Ilmenau, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.68082,
+               "lng" : 10.9325699
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.68216898029151,
+                  "lng" : 10.9339188802915
+               },
+               "southwest" : {
+                  "lat" : 50.67947101970851,
+                  "lng" : 10.9312209197085
+               }
+            }
+         },
+         "place_id" : "ChIJzWgfGkuNo0cR1WzdAglVb5A",
+         "plus_code" : {
+            "compound_code" : "MWJM+82 Ilmenau, Germany",
+            "global_code" : "9F2GMWJM+82"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

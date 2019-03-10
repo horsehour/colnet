@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Castle Peak Road",
+               "short_name" : "Castle Peak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tuen Mun",
+               "short_name" : "Tuen Mun",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Territories",
+               "short_name" : "New Territories",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8 Castle Peak Rd, Tuen Mun, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.40994,
+               "lng" : 113.983212
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4112889802915,
+                  "lng" : 113.9845609802915
+               },
+               "southwest" : {
+                  "lat" : 22.4085910197085,
+                  "lng" : 113.9818630197085
+               }
+            }
+         },
+         "place_id" : "ChIJZZreW-H6AzQRQj9pGvJ6Xro",
+         "plus_code" : {
+            "compound_code" : "CX5M+X7 Hong Kong",
+            "global_code" : "7PJMCX5M+X7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

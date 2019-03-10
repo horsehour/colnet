@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kgs. Lyngby",
+               "short_name" : "Kgs. Lyngby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Anker Engelunds Vej 1 Bygning 101A, 2800 Kgs. Lyngby, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.7855742,
+               "lng" : 12.521381
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7869231802915,
+                  "lng" : 12.5227299802915
+               },
+               "southwest" : {
+                  "lat" : 55.7842252197085,
+                  "lng" : 12.5200320197085
+               }
+            }
+         },
+         "place_id" : "ChIJXb24KGNOUkYRxcZJBN5cBM8",
+         "plus_code" : {
+            "compound_code" : "QGPC+6H Lyngby, Lyngby-Taarbæk Municipality, Denmark",
+            "global_code" : "9F7JQGPC+6H"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

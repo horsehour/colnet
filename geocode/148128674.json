@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "516号",
+               "short_name" : "516号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "军工路",
+               "short_name" : "军工路",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yangpu Qu",
+               "short_name" : "Yangpu Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200093",
+               "short_name" : "200093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "China, Shanghai Shi, Yangpu Qu, 军工路516号 邮政编码: 200093",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.29043,
+               "lng" : 121.551957
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.29177898029149,
+                  "lng" : 121.5533059802915
+               },
+               "southwest" : {
+                  "lat" : 31.2890810197085,
+                  "lng" : 121.5506080197085
+               }
+            }
+         },
+         "place_id" : "ChIJO4KGqBN0sjURZasrn5sz36M",
+         "plus_code" : {
+            "compound_code" : "7HR2+5Q Yangpu, Shanghai, China",
+            "global_code" : "8Q337HR2+5Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

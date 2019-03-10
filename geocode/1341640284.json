@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Science Park",
+               "short_name" : "Science Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amsterdam-Oost",
+               "short_name" : "Amsterdam-Oost",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1098 XG",
+               "short_name" : "1098 XG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Science Park 123, 1098 XG Amsterdam, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.356678,
+               "lng" : 4.95187
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.35802698029149,
+                  "lng" : 4.953218980291502
+               },
+               "southwest" : {
+                  "lat" : 52.35532901970849,
+                  "lng" : 4.950521019708497
+               }
+            }
+         },
+         "place_id" : "ChIJT7yahEMJxkcRUTDQbT-8SXw",
+         "plus_code" : {
+            "compound_code" : "9X42+MP Amsterdam, Netherlands",
+            "global_code" : "9F469X42+MP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

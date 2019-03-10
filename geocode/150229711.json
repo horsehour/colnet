@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pixian",
+               "short_name" : "Pixian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, Sichuan, Chengdu, Pixian, 王桥路",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.788537,
+               "lng" : 103.888902
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7898859802915,
+                  "lng" : 103.8902509802915
+               },
+               "southwest" : {
+                  "lat" : 30.7871880197085,
+                  "lng" : 103.8875530197085
+               }
+            }
+         },
+         "place_id" : "ChIJrY7GN8rg7zYRN0Tm5iCTI4w",
+         "plus_code" : {
+            "compound_code" : "QVQQ+CH Pixian, Chengdu, Sichuan, China",
+            "global_code" : "8P25QVQQ+CH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

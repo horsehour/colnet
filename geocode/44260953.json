@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stadtbezirk 3",
+               "short_name" : "Stadtbezirk 3",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40225",
+               "short_name" : "40225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsstraße 1, 40225 Düsseldorf, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1888113,
+               "lng" : 6.794503
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.19016028029149,
+                  "lng" : 6.795851980291502
+               },
+               "southwest" : {
+                  "lat" : 51.18746231970849,
+                  "lng" : 6.793154019708497
+               }
+            }
+         },
+         "place_id" : "ChIJH0ebXVXKuEcRYMuQGqEyPpo",
+         "plus_code" : {
+            "compound_code" : "5QQV+GR Düsseldorf, Germany",
+            "global_code" : "9F385QQV+GR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

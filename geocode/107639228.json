@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Notre Dame",
+               "short_name" : "Notre Dame",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Joseph County",
+               "short_name" : "St Joseph County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46556",
+               "short_name" : "46556",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Notre Dame, IN 46556, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7055716,
+               "lng" : -86.23533879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7069205802915,
+                  "lng" : -86.2339898197085
+               },
+               "southwest" : {
+                  "lat" : 41.7042226197085,
+                  "lng" : -86.2366877802915
+               }
+            }
+         },
+         "place_id" : "ChIJzTX8a1fNFogRt9mfZcvjK1o",
+         "plus_code" : {
+            "compound_code" : "PQ47+6V Notre Dame, Portage Township, IN, United States",
+            "global_code" : "86HMPQ47+6V"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

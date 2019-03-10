@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max Planck Way",
+               "short_name" : "Max Planck Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abacoa",
+               "short_name" : "Abacoa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jupiter",
+               "short_name" : "Jupiter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palm Beach County",
+               "short_name" : "Palm Beach County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33458",
+               "short_name" : "33458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Max Planck Way, Jupiter, FL 33458, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8838274,
+               "lng" : -80.1148609
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8851763802915,
+                  "lng" : -80.1135119197085
+               },
+               "southwest" : {
+                  "lat" : 26.88247841970849,
+                  "lng" : -80.11620988029151
+               }
+            }
+         },
+         "place_id" : "ChIJZTraMb7V3ogRyNVUMwO13ZM",
+         "plus_code" : {
+            "compound_code" : "VVMP+G3 Jupiter, Florida, United States",
+            "global_code" : "76RXVVMP+G3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

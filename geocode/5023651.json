@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "845",
+               "short_name" : "845",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Sherbrooke Ouest",
+               "short_name" : "Rue Sherbrooke Ouest",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Montréal",
+               "short_name" : "Montréal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 0G4",
+               "short_name" : "H3A 0G4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "845 Rue Sherbrooke Ouest, Montréal, QC H3A 0G4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.50478469999999,
+               "lng" : -73.57715109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5061336802915,
+                  "lng" : -73.57580211970848
+               },
+               "southwest" : {
+                  "lat" : 45.5034357197085,
+                  "lng" : -73.57850008029151
+               }
+            }
+         },
+         "place_id" : "ChIJNZYPUUYayUwRdK6kAJLa5N0",
+         "plus_code" : {
+            "compound_code" : "GC3F+W4 Montreal, Quebec, Canada",
+            "global_code" : "87Q8GC3F+W4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Park",
+               "short_name" : "College Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prince George's County",
+               "short_name" : "Prince George's County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20742",
+               "short_name" : "20742",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College Park, MD 20742, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9869183,
+               "lng" : -76.9425543
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9882672802915,
+                  "lng" : -76.9412053197085
+               },
+               "southwest" : {
+                  "lat" : 38.9855693197085,
+                  "lng" : -76.94390328029151
+               }
+            }
+         },
+         "place_id" : "ChIJq6qaPr3Gt4kRmtrkpd2LjtQ",
+         "plus_code" : {
+            "compound_code" : "X3P4+QX College Park, Berwyn, MD, United States",
+            "global_code" : "87C5X3P4+QX"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

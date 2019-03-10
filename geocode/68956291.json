@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsplatz",
+               "short_name" : "Universitätsplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06108",
+               "short_name" : "06108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsplatz 10, 06108 Halle (Saale), Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4861319,
+               "lng" : 11.9695315
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48748088029149,
+                  "lng" : 11.9708804802915
+               },
+               "southwest" : {
+                  "lat" : 51.4847829197085,
+                  "lng" : 11.9681825197085
+               }
+            }
+         },
+         "place_id" : "ChIJLbWGs1NjpkcRyE0GdBs_oho",
+         "plus_code" : {
+            "compound_code" : "FXP9+FR Halle (Saale), Germany",
+            "global_code" : "9F3HFXP9+FR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

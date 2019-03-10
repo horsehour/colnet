@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xiuli Road",
+               "short_name" : "Xiuli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boluo Xian",
+               "short_name" : "Boluo Xian",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Huizhou Shi",
+               "short_name" : "Huizhou Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong Sheng",
+               "short_name" : "Guangdong Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xiuli Rd, Boluo Xian, Huizhou Shi, Guangdong Sheng, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.121649,
+               "lng" : 113.9624
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1229979802915,
+                  "lng" : 113.9637489802915
+               },
+               "southwest" : {
+                  "lat" : 23.1203000197085,
+                  "lng" : 113.9610510197085
+               }
+            }
+         },
+         "place_id" : "ChIJIeurp316AzQRCSJ3DB5f_7w",
+         "plus_code" : {
+            "compound_code" : "4XC6+MX Yuanzhouzhen, Boluo, Huizhou, Guangdong, China",
+            "global_code" : "7PMM4XC6+MX"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

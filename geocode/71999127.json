@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "585",
+               "short_name" : "585",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gran Via de les Corts Catalanes",
+               "short_name" : "Gran Via de les Corts Catalanes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cataluña",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08007",
+               "short_name" : "08007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gran Via de les Corts Catalanes, 585, 08007 Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.386608,
+               "lng" : 2.16402
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38795698029151,
+                  "lng" : 2.165368980291502
+               },
+               "southwest" : {
+                  "lat" : 41.38525901970851,
+                  "lng" : 2.162671019708498
+               }
+            }
+         },
+         "place_id" : "ChIJ09m-TPOipBIRlewigQUSPro",
+         "plus_code" : {
+            "compound_code" : "95P7+JJ Barcelona, Spain",
+            "global_code" : "8FH495P7+JJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

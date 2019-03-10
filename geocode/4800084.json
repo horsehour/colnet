@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jingqu Road",
+               "short_name" : "Jingqu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Emeishan Shi",
+               "short_name" : "Emeishan Shi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Leshan Shi",
+               "short_name" : "Leshan Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan Sheng",
+               "short_name" : "Sichuan Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1 Jingqu Rd, Emeishan Shi, Leshan Shi, Sichuan Sheng, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.567872,
+               "lng" : 103.452145
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5692209802915,
+                  "lng" : 103.4534939802915
+               },
+               "southwest" : {
+                  "lat" : 29.5665230197085,
+                  "lng" : 103.4507960197085
+               }
+            }
+         },
+         "place_id" : "ChIJm0ef21D55TYRM1F0DOuNsZU",
+         "plus_code" : {
+            "compound_code" : "HF92+4V Emeishan, Leshan, Sichuan, China",
+            "global_code" : "7PX5HF92+4V"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

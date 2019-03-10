@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "430",
+               "short_name" : "430",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viamonte",
+               "short_name" : "Viamonte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Nicolas",
+               "short_name" : "San Nicolas",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Comuna 1",
+               "short_name" : "Comuna 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "C1053",
+               "short_name" : "C1053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viamonte 430, C1053 CABA, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.5998875,
+               "lng" : -58.37306949999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.59853851970851,
+                  "lng" : -58.37172051970849
+               },
+               "southwest" : {
+                  "lat" : -34.6012364802915,
+                  "lng" : -58.3744184802915
+               }
+            }
+         },
+         "place_id" : "ChIJE1bNX8vKvJURFbYSKI1Gw0I",
+         "plus_code" : {
+            "compound_code" : "CJ2G+2Q Buenos Aires, Argentina",
+            "global_code" : "48Q3CJ2G+2Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

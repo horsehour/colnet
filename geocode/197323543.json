@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saarstraße",
+               "short_name" : "Saarstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mainz",
+               "short_name" : "MZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55122",
+               "short_name" : "55122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saarstraße 21, 55122 Mainz, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.9926403,
+               "lng" : 8.241555199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9939892802915,
+                  "lng" : 8.242904180291502
+               },
+               "southwest" : {
+                  "lat" : 49.9912913197085,
+                  "lng" : 8.240206219708497
+               }
+            }
+         },
+         "place_id" : "ChIJrxDoPeqWvUcRq0QAu_NPNOk",
+         "plus_code" : {
+            "compound_code" : "X6VR+3J Mainz, Germany",
+            "global_code" : "8FXCX6VR+3J"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

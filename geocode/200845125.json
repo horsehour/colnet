@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Pukou",
+               "short_name" : "Pukou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "210044",
+               "short_name" : "210044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pukou, Nanjing, China, 210044",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.20541,
+               "lng" : 118.726956
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2067589802915,
+                  "lng" : 118.7283049802915
+               },
+               "southwest" : {
+                  "lat" : 32.2040610197085,
+                  "lng" : 118.7256070197085
+               }
+            }
+         },
+         "place_id" : "ChIJU-fWZPj2tTURs-QVqri82iQ",
+         "plus_code" : {
+            "compound_code" : "6P4G+5Q Pukou, Nanjing, Jiangsu, China",
+            "global_code" : "8P4W6P4G+5Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

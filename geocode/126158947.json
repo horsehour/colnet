@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ondina",
+               "short_name" : "Ondina",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "State of Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40170-115",
+               "short_name" : "40170-115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ondina, Salvador - State of Bahia, 40170-115, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -13.0024602,
+               "lng" : -38.50897519999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.0011112197085,
+                  "lng" : -38.5076262197085
+               },
+               "southwest" : {
+                  "lat" : -13.0038091802915,
+                  "lng" : -38.5103241802915
+               }
+            }
+         },
+         "place_id" : "ChIJd1TXVmEDFgcRVvioW0TNll8",
+         "plus_code" : {
+            "compound_code" : "XFXR+2C Salvador, State of Bahia, Brazil",
+            "global_code" : "59R3XFXR+2C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

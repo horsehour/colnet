@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patra",
+               "short_name" : "Patra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "265 04",
+               "short_name" : "265 04",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Panepistimioupoli Patron, Patra 265 04, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.28923,
+               "lng" : 21.785369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2905789802915,
+                  "lng" : 21.7867179802915
+               },
+               "southwest" : {
+                  "lat" : 38.2878810197085,
+                  "lng" : 21.7840200197085
+               }
+            }
+         },
+         "place_id" : "ChIJC5SZMHlMXhMR8wiJH3vyoUA",
+         "plus_code" : {
+            "compound_code" : "7QQP+M4 Panepistimioupoli Patron, Rio, Greece",
+            "global_code" : "8GC37QQP+M4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

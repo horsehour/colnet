@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "350",
+               "short_name" : "350",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albert Street",
+               "short_name" : "Albert St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1A 1H5",
+               "short_name" : "K1A 1H5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "350 Albert St, Ottawa, ON K1A 1H5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.41819779999999,
+               "lng" : -75.7031372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4195467802915,
+                  "lng" : -75.7017882197085
+               },
+               "southwest" : {
+                  "lat" : 45.4168488197085,
+                  "lng" : -75.70448618029151
+               }
+            }
+         },
+         "place_id" : "ChIJLdtw9FMEzkwR6NfBn3CnVEY",
+         "plus_code" : {
+            "compound_code" : "C79W+7P Byward Market - Parliament Hill, Ottawa, ON, Canada",
+            "global_code" : "87Q6C79W+7P"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

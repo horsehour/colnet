@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "801",
+               "short_name" : "801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Baltimore Street",
+               "short_name" : "W Baltimore St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hollins Market",
+               "short_name" : "Hollins Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21201",
+               "short_name" : "21201",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1109",
+               "short_name" : "1109",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "801 W Baltimore St, Baltimore, MD 21201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.288623,
+               "lng" : -76.62934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2899719802915,
+                  "lng" : -76.6279910197085
+               },
+               "southwest" : {
+                  "lat" : 39.2872740197085,
+                  "lng" : -76.63068898029151
+               }
+            }
+         },
+         "place_id" : "ChIJURnhGlgDyIkRoQOV6aFw5S0",
+         "plus_code" : {
+            "compound_code" : "79QC+C7 Baltimore, Maryland, United States",
+            "global_code" : "87F579QC+C7"
+         },
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      }
+   ],
+   "status" : "OK"
+}

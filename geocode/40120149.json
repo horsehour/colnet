@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX1 2JD",
+               "short_name" : "OX1 2JD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford OX1 2JD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7548164,
+               "lng" : -1.2543668
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.75616538029149,
+                  "lng" : -1.253017819708498
+               },
+               "southwest" : {
+                  "lat" : 51.75346741970849,
+                  "lng" : -1.255715780291502
+               }
+            }
+         },
+         "place_id" : "ChIJW0iM76nGdkgR7a8BoIMY_9I",
+         "plus_code" : {
+            "compound_code" : "QP3W+W7 Oxford, United Kingdom",
+            "global_code" : "9C3WQP3W+W7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

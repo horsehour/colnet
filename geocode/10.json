@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saclay",
+               "short_name" : "Saclay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91400",
+               "short_name" : "91400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "91400 Saclay, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.758927,
+                  "lng" : 2.2037149
+               },
+               "southwest" : {
+                  "lat" : 48.71437700000001,
+                  "lng" : 2.1348199
+               }
+            },
+            "location" : {
+               "lat" : 48.73668,
+               "lng" : 2.180034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.758927,
+                  "lng" : 2.2037149
+               },
+               "southwest" : {
+                  "lat" : 48.71437700000001,
+                  "lng" : 2.1348199
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN7L4hdR45kcR4ZmRioWnmmI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

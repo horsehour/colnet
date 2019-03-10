@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "841",
+               "short_name" : "841",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Broadway",
+               "short_name" : "N Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Town",
+               "short_name" : "East Town",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53202",
+               "short_name" : "53202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "841 N Broadway, Milwaukee, WI 53202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.041896,
+               "lng" : -87.90882099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0432449802915,
+                  "lng" : -87.90747201970848
+               },
+               "southwest" : {
+                  "lat" : 43.04054701970851,
+                  "lng" : -87.91016998029149
+               }
+            }
+         },
+         "place_id" : "ChIJk-QxgAkZBYgRQlSw7NGctCs",
+         "plus_code" : {
+            "compound_code" : "23RR+QF Milwaukee, Wisconsin, United States",
+            "global_code" : "86MJ23RR+QF"
+         },
+         "types" : [
+            "establishment",
+            "health",
+            "local_government_office",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

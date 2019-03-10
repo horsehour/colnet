@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Am Neuen Palais",
+               "short_name" : "Am Neuen Palais",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westliche Vorstadt",
+               "short_name" : "Westliche Vorstadt",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14469",
+               "short_name" : "14469",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Am Neuen Palais 10, 14469 Potsdam, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4010314,
+               "lng" : 13.0119098
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4023803802915,
+                  "lng" : 13.0132587802915
+               },
+               "southwest" : {
+                  "lat" : 52.3996824197085,
+                  "lng" : 13.0105608197085
+               }
+            }
+         },
+         "place_id" : "ChIJUc6fRT30qEcRlpwFESD7BG0",
+         "plus_code" : {
+            "compound_code" : "C226+CQ Potsdam, Germany",
+            "global_code" : "9F4MC226+CQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

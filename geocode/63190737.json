@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14260",
+               "short_name" : "14260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY 14260, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0008093,
+               "lng" : -78.7889697
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0021582802915,
+                  "lng" : -78.7876207197085
+               },
+               "southwest" : {
+                  "lat" : 42.9994603197085,
+                  "lng" : -78.79031868029151
+               }
+            }
+         },
+         "place_id" : "ChIJnwQbJtJz04kRb_XET01paCg",
+         "plus_code" : {
+            "compound_code" : "2626+8C Getzville, Amherst, NY, United States",
+            "global_code" : "87M32626+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16300",
+               "short_name" : "16300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old Emmitsburg Road",
+               "short_name" : "Old Emmitsburg Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Emmitsburg",
+               "short_name" : "Emmitsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "5, Emmitsburg",
+               "short_name" : "5, Emmitsburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Frederick County",
+               "short_name" : "Frederick County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21727",
+               "short_name" : "21727",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7797",
+               "short_name" : "7797",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "16300 Old Emmitsburg Rd, Emmitsburg, MD 21727, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6807058,
+               "lng" : -77.3490013
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.68205478029149,
+                  "lng" : -77.34765231970849
+               },
+               "southwest" : {
+                  "lat" : 39.6793568197085,
+                  "lng" : -77.35035028029151
+               }
+            }
+         },
+         "place_id" : "ChIJ2wK2Yjy3yYkRi_-nzyWn8eE",
+         "plus_code" : {
+            "compound_code" : "MMJ2+79 Emmitsburg, 5, Emmitsburg, MD, United States",
+            "global_code" : "87F4MMJ2+79"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

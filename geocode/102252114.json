@@ -1,0 +1,137 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "436",
+               "short_name" : "436",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East State Street",
+               "short_name" : "E State St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ewing and Carroll",
+               "short_name" : "Ewing and Carroll",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Trenton",
+               "short_name" : "Trenton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08608",
+               "short_name" : "08608",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1503",
+               "short_name" : "1503",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "436 E State St, Trenton, NJ 08608, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2212788,
+               "lng" : -74.7561441
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2226277802915,
+                  "lng" : -74.75479511970849
+               },
+               "southwest" : {
+                  "lat" : 40.2199298197085,
+                  "lng" : -74.75749308029151
+               }
+            }
+         },
+         "place_id" : "ChIJl1eH47VZwYkRLLl4j8scTe8",
+         "plus_code" : {
+            "compound_code" : "66CV+GG Trenton, Lower Makefield Township, NJ, United States",
+            "global_code" : "87G766CV+GG"
+         },
+         "types" : [ "establishment", "local_government_office", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO Box 37",
+               "short_name" : "PO Box 37",
+               "types" : [ "post_box" ]
+            },
+            {
+               "long_name" : "Seaside Park",
+               "short_name" : "Seaside Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ocean County",
+               "short_name" : "Ocean County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08752",
+               "short_name" : "08752",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0037",
+               "short_name" : "0037",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "PO Box 37, Seaside Park, NJ 08752, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9267852,
+               "lng" : -74.0770806
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92813418029149,
+                  "lng" : -74.07573161970849
+               },
+               "southwest" : {
+                  "lat" : 39.92543621970849,
+                  "lng" : -74.07842958029151
+               }
+            }
+         },
+         "place_id" : "ChIJmY6Zp3iZwYkRPsoKKzRaZiM",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

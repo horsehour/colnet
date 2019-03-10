@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changping",
+               "short_name" : "Changping",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "102202",
+               "short_name" : "102202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Changping, Beijing, China, 102202",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.169887,
+               "lng" : 116.283102
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.17123598029149,
+                  "lng" : 116.2844509802915
+               },
+               "southwest" : {
+                  "lat" : 40.16853801970849,
+                  "lng" : 116.2817530197085
+               }
+            }
+         },
+         "place_id" : "ChIJzWJILLT78DURmGjyjytCRzY",
+         "plus_code" : {
+            "compound_code" : "579M+X6 Changping, Beijing, China",
+            "global_code" : "8PGR579M+X6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

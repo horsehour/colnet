@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xinjiekou Outer Street",
+               "short_name" : "Xinjiekou Outer St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BeiTaiPingZhuang",
+               "short_name" : "BeiTaiPingZhuang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haidian Qu",
+               "short_name" : "Haidian Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing Shi",
+               "short_name" : "Beijing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100875",
+               "short_name" : "100875",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Xinjiekou Outer St, BeiTaiPingZhuang, Haidian Qu, Beijing Shi, China, 100875",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9619537,
+               "lng" : 116.3662615
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96330268029149,
+                  "lng" : 116.3676104802915
+               },
+               "southwest" : {
+                  "lat" : 39.96060471970849,
+                  "lng" : 116.3649125197085
+               }
+            }
+         },
+         "place_id" : "ChIJxfN4FJpT8DURc9euvSu2ob0",
+         "plus_code" : {
+            "compound_code" : "X968+QG Haidian, Beijing, China",
+            "global_code" : "8PFRX968+QG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Busandaehak-ro 63beon-gil",
+               "short_name" : "Busandaehak-ro 63beon-gil",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Jangjeon-dong",
+               "short_name" : "Jangjeon-dong",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Geumjeong-gu",
+               "short_name" : "Geumjeong-gu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Busan",
+               "short_name" : "Busan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "609-390",
+               "short_name" : "609-390",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Busandaehak-ro 63beon-gil, Jangjeon-dong, Geumjeong-gu, Busan, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2331576,
+               "lng" : 129.07951
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.23450658029149,
+                  "lng" : 129.0808589802915
+               },
+               "southwest" : {
+                  "lat" : 35.2318086197085,
+                  "lng" : 129.0781610197085
+               }
+            }
+         },
+         "place_id" : "ChIJMydjmO2TaDURlwbxIS4E1kM",
+         "plus_code" : {
+            "compound_code" : "63MH+7R Busan, South Korea",
+            "global_code" : "8Q7F63MH+7R"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

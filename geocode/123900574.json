@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cheongam-ro",
+               "short_name" : "Cheongam-ro",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Hyogok-dong",
+               "short_name" : "Hyogok-dong",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Nam-gu",
+               "short_name" : "Nam-gu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pohang",
+               "short_name" : "Pohang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gyeongsangbuk-do",
+               "short_name" : "Gyeongsangbuk-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "790-390",
+               "short_name" : "790-390",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0138857,
+               "lng" : 129.3231836
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.01523468029149,
+                  "lng" : 129.3245325802915
+               },
+               "southwest" : {
+                  "lat" : 36.0125367197085,
+                  "lng" : 129.3218346197085
+               }
+            }
+         },
+         "place_id" : "ChIJ30ZceNYBZzUR0DvfHQ3kBAE",
+         "plus_code" : {
+            "compound_code" : "287F+H7 Pohang-si, Gyeongsangbuk-do, South Korea",
+            "global_code" : "8Q8F287F+H7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

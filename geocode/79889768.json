@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Beira Rio",
+               "short_name" : "Av. Beira Rio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Penedo",
+               "short_name" : "Penedo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alagoas",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200-000",
+               "short_name" : "57200-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Beira Rio, s/n - Centro, Penedo - AL, 57200-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -10.2972127,
+               "lng" : -36.5787238
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.2958637197085,
+                  "lng" : -36.5773748197085
+               },
+               "southwest" : {
+                  "lat" : -10.2985616802915,
+                  "lng" : -36.58007278029149
+               }
+            }
+         },
+         "place_id" : "ChIJJ071XeVUBAcRKgkLJj9K--4",
+         "plus_code" : {
+            "compound_code" : "PC3C+4G Penedo, State of Alagoas, Brazil",
+            "global_code" : "59X5PC3C+4G"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

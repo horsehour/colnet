@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University City",
+               "short_name" : "CU UNAM",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University City, Mexico City, CDMX, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.336989,
+                  "lng" : -99.16908760000001
+               },
+               "southwest" : {
+                  "lat" : 19.3063059,
+                  "lng" : -99.20122920000001
+               }
+            },
+            "location" : {
+               "lat" : 19.3188895,
+               "lng" : -99.1843676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.336989,
+                  "lng" : -99.16908760000001
+               },
+               "southwest" : {
+                  "lat" : 19.3063059,
+                  "lng" : -99.20122920000001
+               }
+            }
+         },
+         "place_id" : "ChIJG5qXIAkAzoURTYC6BwI8n3w",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

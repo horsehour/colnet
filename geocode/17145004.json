@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "127",
+               "short_name" : "127",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Youyi West Road",
+               "short_name" : "Youyi W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beilin Qu",
+               "short_name" : "Beilin Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xian Shi",
+               "short_name" : "Xian Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaanxi Sheng",
+               "short_name" : "Shaanxi Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "710065",
+               "short_name" : "710065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "127 Youyi W Rd, Beilin Qu, Xian Shi, Shaanxi Sheng, China, 710065",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2416608,
+               "lng" : 108.9367387
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.24300978029149,
+                  "lng" : 108.9380876802915
+               },
+               "southwest" : {
+                  "lat" : 34.2403118197085,
+                  "lng" : 108.9353897197085
+               }
+            }
+         },
+         "place_id" : "ChIJiUYo7IJwYzYR6hfFeZk11Vc",
+         "plus_code" : {
+            "compound_code" : "6WRP+MM Beilin, Xi'an, Shaanxi, China",
+            "global_code" : "8P6C6WRP+MM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

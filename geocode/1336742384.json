@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Michigan Avenue Northwest",
+               "short_name" : "Michigan Ave NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northwest Washington",
+               "short_name" : "Northwest Washington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20010",
+               "short_name" : "20010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111 Michigan Ave NW, Washington, DC 20010, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9271175,
+               "lng" : -77.0145732
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9284664802915,
+                  "lng" : -77.0132242197085
+               },
+               "southwest" : {
+                  "lat" : 38.92576851970851,
+                  "lng" : -77.01592218029151
+               }
+            }
+         },
+         "place_id" : "ChIJWyr-mAHIt4kRO5BOhjFUQ2U",
+         "plus_code" : {
+            "compound_code" : "WXGP+R5 Washington, District of Columbia, United States",
+            "global_code" : "87C4WXGP+R5"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

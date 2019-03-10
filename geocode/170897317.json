@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham County",
+               "short_name" : "Durham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27708",
+               "short_name" : "27708",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Durham, NC 27708, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0014258,
+               "lng" : -78.9382286
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0027747802915,
+                  "lng" : -78.93687961970849
+               },
+               "southwest" : {
+                  "lat" : 36.0000768197085,
+                  "lng" : -78.93957758029151
+               }
+            }
+         },
+         "place_id" : "ChIJfzLrAbLmrIkRjaMc7lUWH7I",
+         "plus_code" : {
+            "compound_code" : "2326+HP Durham, North Carolina, United States",
+            "global_code" : "87832326+HP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

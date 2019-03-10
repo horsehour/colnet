@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1338",
+               "short_name" : "1338",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Luis Almeida Couto",
+               "short_name" : "Av. Luis Almeida Couto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Viana",
+               "short_name" : "Viana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maranhão",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65215-000",
+               "short_name" : "65215-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "-1398, Brasil - Av. Luis Almeida Couto, 1338, Viana - MA, 65215-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.2113706,
+               "lng" : -44.9998574
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.210021619708498,
+                  "lng" : -44.9985084197085
+               },
+               "southwest" : {
+                  "lat" : -3.212719580291502,
+                  "lng" : -45.0012063802915
+               }
+            }
+         },
+         "place_id" : "ChIJURrF_mF99QcRuZb9q_zY7C0",
+         "plus_code" : {
+            "compound_code" : "Q2Q2+F3 Viana, State of Maranhão, Brazil",
+            "global_code" : "688QQ2Q2+F3"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,91 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1053",
+               "short_name" : "1053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Egyetem tér 1-3, 1053 Hungary",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4905698,
+               "lng" : 19.0585445
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4919187802915,
+                  "lng" : 19.0598934802915
+               },
+               "southwest" : {
+                  "lat" : 47.4892208197085,
+                  "lng" : 19.0571955197085
+               }
+            }
+         },
+         "place_id" : "ChIJUZJ83ETcQUcRbYABbT7QWSI",
+         "plus_code" : {
+            "compound_code" : "F3R5+6C Budapest, Hungary",
+            "global_code" : "8FVXF3R5+6C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1088",
+               "short_name" : "1088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Múzeum körút 6-8., 1088 Hungary",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.49334409999999,
+               "lng" : 19.0610015
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.49469308029149,
+                  "lng" : 19.0623504802915
+               },
+               "southwest" : {
+                  "lat" : 47.49199511970849,
+                  "lng" : 19.0596525197085
+               }
+            }
+         },
+         "place_id" : "ChIJg3xPQUPcQUcRVbCE33wM2NQ",
+         "plus_code" : {
+            "compound_code" : "F3V6+8C Budapest, Hungary",
+            "global_code" : "8FVXF3V6+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

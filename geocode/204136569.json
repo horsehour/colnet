@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK7 6AA",
+               "short_name" : "MK7 6AA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Walton Hall MK7 6AA, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.02462269999999,
+               "lng" : -0.7107078999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.02597168029149,
+                  "lng" : -0.709358919708498
+               },
+               "southwest" : {
+                  "lat" : 52.02327371970849,
+                  "lng" : -0.712056880291502
+               }
+            }
+         },
+         "place_id" : "ChIJc8udEi6rd0gR2GQRIEDO0ow",
+         "plus_code" : {
+            "compound_code" : "27FQ+RP Kents Hill, United Kingdom",
+            "global_code" : "9C4X27FQ+RP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "241-438",
+               "short_name" : "241-438",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Kaidobatanishi",
+               "short_name" : "Kaidobatanishi",
+               "types" : [ "political", "sublocality", "sublocality_level_3" ]
+            },
+            {
+               "long_name" : "Shimoshinjonakano",
+               "short_name" : "Shimoshinjonakano",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Akita",
+               "short_name" : "Akita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akita Prefecture",
+               "short_name" : "Akita Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "010-0195",
+               "short_name" : "010-0195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kaidobatanishi-241-438 Shimoshinjonakano, Akita, Akita Prefecture 010-0195, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.8008185,
+               "lng" : 140.0459028
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.80216748029149,
+                  "lng" : 140.0472517802915
+               },
+               "southwest" : {
+                  "lat" : 39.7994695197085,
+                  "lng" : 140.0445538197085
+               }
+            }
+         },
+         "place_id" : "ChIJ35rO5L7gj18R4huJuNzH_mE",
+         "plus_code" : {
+            "compound_code" : "R22W+89 Akita, Akita Prefecture, Japan",
+            "global_code" : "8RF2R22W+89"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

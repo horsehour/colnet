@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "603102",
+               "short_name" : "603102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalpakkam, Tamil Nadu 603102, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.5724675,
+               "lng" : 80.17536100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.5738164802915,
+                  "lng" : 80.17670998029152
+               },
+               "southwest" : {
+                  "lat" : 12.5711185197085,
+                  "lng" : 80.17401201970851
+               }
+            }
+         },
+         "place_id" : "ChIJF6m7q2WpUzoRFnhiTDfWXHc",
+         "plus_code" : {
+            "compound_code" : "H5CG+X4 Manamai, Tamil Nadu, India",
+            "global_code" : "7M42H5CG+X4"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

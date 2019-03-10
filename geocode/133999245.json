@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4505",
+               "short_name" : "4505",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Maryland Parkway",
+               "short_name" : "S Maryland Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University District",
+               "short_name" : "University District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Las Vegas",
+               "short_name" : "Las Vegas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89154",
+               "short_name" : "89154",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4505 S Maryland Pkwy, Las Vegas, NV 89154, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1085197,
+               "lng" : -115.1431709
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.10986868029149,
+                  "lng" : -115.1418219197085
+               },
+               "southwest" : {
+                  "lat" : 36.10717071970849,
+                  "lng" : -115.1445198802915
+               }
+            }
+         },
+         "place_id" : "ChIJX-B-mQHFyIARxkJvHMEXgeM",
+         "plus_code" : {
+            "compound_code" : "4V54+CP Las Vegas, Nevada, United States",
+            "global_code" : "85864V54+CP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

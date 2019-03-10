@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trade Tower",
+               "short_name" : "Trade Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "המרד",
+               "short_name" : "המרד",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "תל אביב יפו",
+               "short_name" : "תל אביב יפו",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "מחוז תל אביב",
+               "short_name" : "מחוז תל אביב",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trade Tower, המרד 25, תל אביב יפו, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0626619,
+               "lng" : 34.7628122
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.06401088029151,
+                  "lng" : 34.7641611802915
+               },
+               "southwest" : {
+                  "lat" : 32.06131291970851,
+                  "lng" : 34.7614632197085
+               }
+            }
+         },
+         "place_id" : "ChIJieIeF7pMHRURA8uTBF4Xoig",
+         "plus_code" : {
+            "compound_code" : "3Q77+34 Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3Q77+34"
+         },
+         "types" : [ "embassy", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

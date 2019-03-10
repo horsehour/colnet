@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Massachusetts Avenue",
+               "short_name" : "Massachusetts Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Area 2/MIT",
+               "short_name" : "Area 2/MIT",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02139",
+               "short_name" : "02139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "77 Massachusetts Ave, Cambridge, MA 02139, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.360091,
+               "lng" : -71.09416
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.36143998029149,
+                  "lng" : -71.09281101970849
+               },
+               "southwest" : {
+                  "lat" : 42.35874201970849,
+                  "lng" : -71.09550898029151
+               }
+            }
+         },
+         "place_id" : "ChIJh2oa9apw44kRPCAIs6WO4NA",
+         "plus_code" : {
+            "compound_code" : "9W64+28 Cambridge, Massachusetts, United States",
+            "global_code" : "87JC9W64+28"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

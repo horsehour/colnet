@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Onaridai",
+               "short_name" : "Onaridai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Wakaba Ward",
+               "short_name" : "Wakaba Ward",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chiba",
+               "short_name" : "Chiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiba Prefecture",
+               "short_name" : "Chiba Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "265-8501",
+               "short_name" : "265-8501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4-1 Onaridai, Wakaba Ward, Chiba, Chiba Prefecture 265-8501, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.637621,
+               "lng" : 140.2031316
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6389699802915,
+                  "lng" : 140.2044805802915
+               },
+               "southwest" : {
+                  "lat" : 35.6362720197085,
+                  "lng" : 140.2017826197085
+               }
+            }
+         },
+         "place_id" : "ChIJp7Cgjx-QImARPag6QS9THSk",
+         "plus_code" : {
+            "compound_code" : "J6Q3+27 Chiba, Chiba Prefecture, Japan",
+            "global_code" : "8R72J6Q3+27"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

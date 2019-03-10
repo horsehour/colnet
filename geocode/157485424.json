@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "291",
+               "short_name" : "291",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Daehak-ro",
+               "short_name" : "Daehak-ro",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "Eoeun-dong",
+               "short_name" : "Eoeun-dong",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Yuseong-gu",
+               "short_name" : "Yuseong-gu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Daejeon",
+               "short_name" : "Daejeon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305-333",
+               "short_name" : "305-333",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "291 Daehak-ro, Eoeun-dong, Yuseong-gu, Daejeon, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3721427,
+               "lng" : 127.36039
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.37349168029149,
+                  "lng" : 127.3617389802915
+               },
+               "southwest" : {
+                  "lat" : 36.37079371970849,
+                  "lng" : 127.3590410197085
+               }
+            }
+         },
+         "place_id" : "ChIJT4iuFrZLZTURyaJZZ-AHpp8",
+         "plus_code" : {
+            "compound_code" : "99C6+V5 Daejeon, South Korea",
+            "global_code" : "8Q8999C6+V5"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "237号",
+               "short_name" : "237号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Longquan Road",
+               "short_name" : "Longquan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wuhua Qu",
+               "short_name" : "Wuhua Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kunming Shi",
+               "short_name" : "Kunming Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yunnan Sheng",
+               "short_name" : "Yunnan Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "650000",
+               "short_name" : "650000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "237 Longquan Rd, Wuhua Qu, Kunming Shi, Yunnan Sheng, China, 650000",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0792284,
+               "lng" : 102.7145152
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0805773802915,
+                  "lng" : 102.7158641802915
+               },
+               "southwest" : {
+                  "lat" : 25.07787941970849,
+                  "lng" : 102.7131662197085
+               }
+            }
+         },
+         "place_id" : "ChIJO_SUMIiB0DYRFuoJ3xn3BOw",
+         "plus_code" : {
+            "compound_code" : "3PH7+MR Wuhua, Kunming, Yunnan, China",
+            "global_code" : "7PQ43PH7+MR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

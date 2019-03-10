@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yingbin Road",
+               "short_name" : "Yingbin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hongshan Qu",
+               "short_name" : "Hongshan Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wuhan Shi",
+               "short_name" : "Wuhan Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hubei Sheng",
+               "short_name" : "Hubei Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "430073",
+               "short_name" : "430073",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yingbin Rd, Hongshan Qu, Wuhan Shi, Hubei Sheng, China, 430073",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.508964,
+               "lng" : 114.410577
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5103129802915,
+                  "lng" : 114.4119259802915
+               },
+               "southwest" : {
+                  "lat" : 30.5076150197085,
+                  "lng" : 114.4092280197085
+               }
+            }
+         },
+         "place_id" : "ChIJMao22LakLjQRLX0VmrLvas0",
+         "plus_code" : {
+            "compound_code" : "GC56+H6 Hongshan, Wuhan, Hubei, China",
+            "global_code" : "8P2PGC56+H6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

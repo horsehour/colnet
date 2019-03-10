@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "１−１",
+               "short_name" : "１−１",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1 Chome",
+               "short_name" : "1 Chome",
+               "types" : [ "political", "sublocality", "sublocality_level_3" ]
+            },
+            {
+               "long_name" : "Tennodai",
+               "short_name" : "Tennodai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Tsukuba",
+               "short_name" : "Tsukuba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ibaraki Prefecture",
+               "short_name" : "Ibaraki Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305-8577",
+               "short_name" : "305-8577",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Chome-１−１ Tennodai, Tsukuba, Ibaraki Prefecture 305-8577, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.10882369999999,
+               "lng" : 140.103652
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.11017268029149,
+                  "lng" : 140.1050009802915
+               },
+               "southwest" : {
+                  "lat" : 36.10747471970849,
+                  "lng" : 140.1023030197085
+               }
+            }
+         },
+         "place_id" : "ChIJC3v1mf8LImARuLQvY-dArRw",
+         "plus_code" : {
+            "compound_code" : "4453+GF Tsukuba, Ibaraki Prefecture, Japan",
+            "global_code" : "8R824453+GF"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "1 Chome",
+               "short_name" : "1 Chome",
+               "types" : [ "political", "sublocality", "sublocality_level_3" ]
+            },
+            {
+               "long_name" : "Tennodai",
+               "short_name" : "Tennodai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Tsukuba",
+               "short_name" : "Tsukuba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ibaraki Prefecture",
+               "short_name" : "Ibaraki Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305-0006",
+               "short_name" : "305-0006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Chome-1-1 Tennodai, Tsukuba, Ibaraki Prefecture 305-0006, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.100336,
+               "lng" : 140.102528
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.10168498029149,
+                  "lng" : 140.1038769802915
+               },
+               "southwest" : {
+                  "lat" : 36.0989870197085,
+                  "lng" : 140.1011790197085
+               }
+            }
+         },
+         "place_id" : "ChIJswYtigkMImARvQXMPGH4kx0",
+         "plus_code" : {
+            "compound_code" : "4423+42 Tsukuba, Ibaraki Prefecture, Japan",
+            "global_code" : "8R824423+42"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

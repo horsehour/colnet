@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "234",
+               "short_name" : "234",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Herzl Street",
+               "short_name" : "Herzl St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rehovot",
+               "short_name" : "Rehovot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rehovot",
+               "short_name" : "Rehovot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Center District",
+               "short_name" : "Center District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Herzl St 234, Rehovot, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9045055,
+               "lng" : 34.8083407
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9058544802915,
+                  "lng" : 34.8096896802915
+               },
+               "southwest" : {
+                  "lat" : 31.9031565197085,
+                  "lng" : 34.8069917197085
+               }
+            }
+         },
+         "place_id" : "ChIJnSqNoQK3AhURRalOgGxgE2c",
+         "plus_code" : {
+            "compound_code" : "WR35+R8 Rehovot, Israel",
+            "global_code" : "8G3PWR35+R8"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

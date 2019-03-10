@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lausanne",
+               "short_name" : "Lausanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouest Lausannois District",
+               "short_name" : "Ouest Lausannois District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1015 Lausanne, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5210895,
+               "lng" : 6.5801606
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5224384802915,
+                  "lng" : 6.581509580291502
+               },
+               "southwest" : {
+                  "lat" : 46.5197405197085,
+                  "lng" : 6.578811619708499
+               }
+            }
+         },
+         "place_id" : "ChIJubx18aoxjEcRKKylyWpyNgk",
+         "plus_code" : {
+            "compound_code" : "GHCJ+C3 Ecublens, Switzerland",
+            "global_code" : "8FR8GHCJ+C3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

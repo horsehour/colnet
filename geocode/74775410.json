@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6100",
+               "short_name" : "6100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main St",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University Place",
+               "short_name" : "University Place",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77005",
+               "short_name" : "77005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6100 Main St, Houston, TX 77005, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7173941,
+               "lng" : -95.40183119999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7187430802915,
+                  "lng" : -95.40048221970848
+               },
+               "southwest" : {
+                  "lat" : 29.7160451197085,
+                  "lng" : -95.4031801802915
+               }
+            }
+         },
+         "place_id" : "ChIJH47xt2TAQIYRtT7EZfCczeI",
+         "plus_code" : {
+            "compound_code" : "PH8X+X7 South Central Houston, Houston, TX, United States",
+            "global_code" : "76X6PH8X+X7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

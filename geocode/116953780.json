@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1238",
+               "short_name" : "1238",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gonghexin Road",
+               "short_name" : "Gonghexin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ZhongShan BeiLu",
+               "short_name" : "ZhongShan BeiLu",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Zhabei Qu",
+               "short_name" : "Zhabei Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200072",
+               "short_name" : "200072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1238 Gonghexin Rd, ZhongShan BeiLu, Zhabei Qu, Shanghai Shi, China, 200072",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.2627211,
+               "lng" : 121.4598975
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2640700802915,
+                  "lng" : 121.4612464802915
+               },
+               "southwest" : {
+                  "lat" : 31.2613721197085,
+                  "lng" : 121.4585485197085
+               }
+            }
+         },
+         "place_id" : "ChIJv5n0is5xsjURELV7cbCzGgo",
+         "plus_code" : {
+            "compound_code" : "7F75+3X Zhabei, Shanghai, China",
+            "global_code" : "8Q337F75+3X"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

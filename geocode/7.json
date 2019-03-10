@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3350",
+               "short_name" : "3350",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Deán Funes",
+               "short_name" : "Deán Funes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mar del Plata",
+               "short_name" : "Mar del Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Pueyrredón",
+               "short_name" : "Gral Pueyrredón",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B7602",
+               "short_name" : "B7602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "AYL",
+               "short_name" : "AYL",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Deán Funes 3350, B7602AYL Mar del Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.0053709,
+               "lng" : -57.57089999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.0040219197085,
+                  "lng" : -57.56955101970848
+               },
+               "southwest" : {
+                  "lat" : -38.00671988029149,
+                  "lng" : -57.5722489802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ_KNMLfehJURAKTsaiyN8HM",
+         "plus_code" : {
+            "compound_code" : "XCVH+VJ Mar del Plata, Buenos Aires Province, Argentina",
+            "global_code" : "48H4XCVH+VJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2695",
+               "short_name" : "2695",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Diagonal Alberdi Sur",
+               "short_name" : "Diagonal Alberdi Sur",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mar del Plata",
+               "short_name" : "Mar del Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Pueyrredón",
+               "short_name" : "Gral Pueyrredón",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "Buenos Aires",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diagonal Alberdi Sur 2695, Mar del Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9972216,
+               "lng" : -57.5463076
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.99587261970849,
+                  "lng" : -57.5449586197085
+               },
+               "southwest" : {
+                  "lat" : -37.99857058029149,
+                  "lng" : -57.5476565802915
+               }
+            }
+         },
+         "place_id" : "ChIJeRarMLfehJURVlpIfSyxQBU",
+         "plus_code" : {
+            "compound_code" : "2F33+4F Mar del Plata, Buenos Aires Province, Argentina",
+            "global_code" : "48J42F33+4F"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caracas",
+               "short_name" : "CCS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caracas, Capital District, Venezuela",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.4883502,
+               "lng" : -66.8891696
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4896991802915,
+                  "lng" : -66.88782061970851
+               },
+               "southwest" : {
+                  "lat" : 10.4870012197085,
+                  "lng" : -66.89051858029151
+               }
+            }
+         },
+         "place_id" : "ChIJky9zq9BYKowRQJOcyaRjBFU",
+         "plus_code" : {
+            "compound_code" : "F4Q6+88 Caracas, Capital District, Venezuela",
+            "global_code" : "772MF4Q6+88"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

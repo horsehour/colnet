@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Max-Planck-Straße",
+               "short_name" : "Max-Planck-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Geesthacht",
+               "short_name" : "Geesthacht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Herzogtum Lauenburg",
+               "short_name" : "Herzogtum Lauenburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21502",
+               "short_name" : "21502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Max-Planck-Straße 1, 21502 Geesthacht, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.410432,
+               "lng" : 10.4225769
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4117809802915,
+                  "lng" : 10.4239258802915
+               },
+               "southwest" : {
+                  "lat" : 53.4090830197085,
+                  "lng" : 10.4212279197085
+               }
+            }
+         },
+         "place_id" : "ChIJmb5S8KvlsUcRF1dDunApay0",
+         "plus_code" : {
+            "compound_code" : "CC6F+52 Geesthacht, Germany",
+            "global_code" : "9F5GCC6F+52"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

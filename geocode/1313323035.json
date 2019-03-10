@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leninsky Avenue",
+               "short_name" : "Leninsky Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yugo-Zapadnyy administrativnyy okrug",
+               "short_name" : "Yugo-Zapadnyy administrativnyy okrug",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gagarinskiy",
+               "short_name" : "Gagarinskiy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Moskva",
+               "short_name" : "Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "119991",
+               "short_name" : "119991",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leninsky Ave, 14, Moskva, Russia, 119991",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.7107897,
+               "lng" : 37.5778246
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7121386802915,
+                  "lng" : 37.5791735802915
+               },
+               "southwest" : {
+                  "lat" : 55.7094407197085,
+                  "lng" : 37.5764756197085
+               }
+            }
+         },
+         "place_id" : "ChIJ53bpiXtLtUYRz3pcucix9QQ",
+         "plus_code" : {
+            "compound_code" : "PH6H+84 South-Western Administrative Okrug, Moscow, Russia",
+            "global_code" : "9G7VPH6H+84"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

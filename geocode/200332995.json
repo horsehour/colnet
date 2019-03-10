@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Emil-Figge-Straße",
+               "short_name" : "Emil-Figge-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hombruch",
+               "short_name" : "Hombruch",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Dortmund",
+               "short_name" : "DO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44227",
+               "short_name" : "44227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emil-Figge-Straße 50, 44227 Dortmund, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4921902,
+               "lng" : 7.4141362
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49353918029149,
+                  "lng" : 7.415485180291502
+               },
+               "southwest" : {
+                  "lat" : 51.49084121970849,
+                  "lng" : 7.412787219708497
+               }
+            }
+         },
+         "place_id" : "ChIJmdHen1MYuUcRinNQVQEnNLc",
+         "plus_code" : {
+            "compound_code" : "FCR7+VM Dortmund, Germany",
+            "global_code" : "9F39FCR7+VM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

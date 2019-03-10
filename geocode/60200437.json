@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telegrafenberg",
+               "short_name" : "Telegrafenberg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam Süd",
+               "short_name" : "Potsdam Süd",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "P",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14473",
+               "short_name" : "14473",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Telegrafenberg, 14473 Potsdam, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3806053,
+               "lng" : 13.0642447
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3819542802915,
+                  "lng" : 13.0655936802915
+               },
+               "southwest" : {
+                  "lat" : 52.3792563197085,
+                  "lng" : 13.0628957197085
+               }
+            }
+         },
+         "place_id" : "ChIJL0a5b5b1qEcR-JM4y3DU6bc",
+         "plus_code" : {
+            "compound_code" : "93J7+6M Potsdam, Germany",
+            "global_code" : "9F4M93J7+6M"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

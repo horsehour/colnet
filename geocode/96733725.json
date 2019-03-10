@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1550",
+               "short_name" : "1550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Haigang Avenue",
+               "short_name" : "Haigang Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pudong Xinqu",
+               "short_name" : "Pudong Xinqu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1550 Haigang Ave, Pudong Xinqu, Shanghai Shi, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.874115,
+               "lng" : 121.905446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8754639802915,
+                  "lng" : 121.9067949802915
+               },
+               "southwest" : {
+                  "lat" : 30.8727660197085,
+                  "lng" : 121.9040970197085
+               }
+            }
+         },
+         "place_id" : "ChIJta3L6CZ0rTURx0W8kDJCAkc",
+         "plus_code" : {
+            "compound_code" : "VWF4+J5 Pudong, Shanghai, China",
+            "global_code" : "8Q23VWF4+J5"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2600",
+               "short_name" : "2600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pudong Avenue",
+               "short_name" : "Pudong Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pudong Xinqu",
+               "short_name" : "Pudong Xinqu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai Shi",
+               "short_name" : "Shanghai Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201203",
+               "short_name" : "201203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2600 Pudong Ave, Pudong Xinqu, Shanghai Shi, China, 201203",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.263289,
+               "lng" : 121.568537
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2646379802915,
+                  "lng" : 121.5698859802915
+               },
+               "southwest" : {
+                  "lat" : 31.2619400197085,
+                  "lng" : 121.5671880197085
+               }
+            }
+         },
+         "place_id" : "ChIJMWFrjpx2sjURrlKxMkdplNE",
+         "plus_code" : {
+            "compound_code" : "7H79+8C Pudong, Shanghai, China",
+            "global_code" : "8Q337H79+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

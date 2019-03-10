@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Tulipán",
+               "short_name" : "Calle Tulipán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Móstoles",
+               "short_name" : "Móstoles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad de Madrid",
+               "short_name" : "Comunidad de Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28933",
+               "short_name" : "28933",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle Tulipán, s/n, 28933 Móstoles, Madrid, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3358661,
+               "lng" : -3.8769432
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.33721508029149,
+                  "lng" : -3.875594219708498
+               },
+               "southwest" : {
+                  "lat" : 40.3345171197085,
+                  "lng" : -3.878292180291503
+               }
+            }
+         },
+         "place_id" : "ChIJQ_Vo33qOQQ0RC6lVhEJVF4Q",
+         "plus_code" : {
+            "compound_code" : "84PF+86 Móstoles, Spain",
+            "global_code" : "8CGR84PF+86"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

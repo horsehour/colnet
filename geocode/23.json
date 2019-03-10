@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2801",
+               "short_name" : "2801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sharon Turnpike",
+               "short_name" : "Sharon Turnpike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Millbrook",
+               "short_name" : "Millbrook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dutchess County",
+               "short_name" : "Dutchess County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12545",
+               "short_name" : "12545",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5721",
+               "short_name" : "5721",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2801 Sharon Turnpike, Millbrook, NY 12545, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.785189,
+               "lng" : -73.733878
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.78653798029151,
+                  "lng" : -73.73252901970851
+               },
+               "southwest" : {
+                  "lat" : 41.78384001970851,
+                  "lng" : -73.73522698029151
+               }
+            }
+         },
+         "place_id" : "ChIJw_ZxrLBu3YkRPPaEmlB9lXc",
+         "plus_code" : {
+            "compound_code" : "Q7P8+3C Millbrook, Washington, NY, United States",
+            "global_code" : "87H8Q7P8+3C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

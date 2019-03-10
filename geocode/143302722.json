@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fayette County",
+               "short_name" : "Fayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40506",
+               "short_name" : "40506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lexington, KY 40506, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0306511,
+               "lng" : -84.5039697
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0320000802915,
+                  "lng" : -84.5026207197085
+               },
+               "southwest" : {
+                  "lat" : 38.0293021197085,
+                  "lng" : -84.50531868029151
+               }
+            }
+         },
+         "place_id" : "ChIJZQxUxbZEQogRZ0KY7kqd_44",
+         "plus_code" : {
+            "compound_code" : "2FJW+7C Lexington, Kentucky, United States",
+            "global_code" : "86CQ2FJW+7C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bull Lea Road",
+               "short_name" : "Bull Lea Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fayette County",
+               "short_name" : "Fayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40511",
+               "short_name" : "40511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1500 Bull Lea Rd #100, Lexington, KY 40511, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0876335,
+               "lng" : -84.4915937
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0889824802915,
+                  "lng" : -84.49024471970849
+               },
+               "southwest" : {
+                  "lat" : 38.0862845197085,
+                  "lng" : -84.49294268029151
+               }
+            }
+         },
+         "place_id" : "ChIJ1SeiHTpEQogRryIotrG8NPc",
+         "plus_code" : {
+            "compound_code" : "3GQ5+39 Lexington, Kentucky, United States",
+            "global_code" : "86CQ3GQ5+39"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

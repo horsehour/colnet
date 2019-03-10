@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98195",
+               "short_name" : "98195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seattle, WA 98195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.65533509999999,
+               "lng" : -122.3035199
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.65668408029149,
+                  "lng" : -122.3021709197085
+               },
+               "southwest" : {
+                  "lat" : 47.65398611970849,
+                  "lng" : -122.3048688802915
+               }
+            }
+         },
+         "place_id" : "ChIJ6zWFnZIUkFQRoyu4AXksdGs",
+         "plus_code" : {
+            "compound_code" : "MM4W+4H Seattle, Washington, United States",
+            "global_code" : "84VVMM4W+4H"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clarkson Avenue",
+               "short_name" : "Clarkson Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "Potsdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Potsdam",
+               "short_name" : "Potsdam",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Lawrence County",
+               "short_name" : "St Lawrence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13699",
+               "short_name" : "13699",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8 Clarkson Ave, Potsdam, NY 13699, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.66376109999999,
+               "lng" : -74.998544
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6651100802915,
+                  "lng" : -74.99719501970849
+               },
+               "southwest" : {
+                  "lat" : 44.6624121197085,
+                  "lng" : -74.99989298029151
+               }
+            }
+         },
+         "place_id" : "ChIJT00f9b9gzEwRkorlYMMUQJA",
+         "plus_code" : {
+            "compound_code" : "M272+GH Potsdam, NY, United States",
+            "global_code" : "87P7M272+GH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

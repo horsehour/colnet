@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2101",
+               "short_name" : "2101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Nasa Parkway",
+               "short_name" : "E NASA Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clear Lake",
+               "short_name" : "Clear Lake",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77058",
+               "short_name" : "77058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2101 E NASA Pkwy, Houston, TX 77058, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5593451,
+               "lng" : -95.08999799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.56069408029149,
+                  "lng" : -95.08864901970848
+               },
+               "southwest" : {
+                  "lat" : 29.5579961197085,
+                  "lng" : -95.0913469802915
+               }
+            }
+         },
+         "place_id" : "ChIJc29kHLCdQIYRpK0NUf9HKCE",
+         "plus_code" : {
+            "compound_code" : "HW56+P2 Clear Lake, Houston, TX, United States",
+            "global_code" : "76X6HW56+P2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

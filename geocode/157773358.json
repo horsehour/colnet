@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "135号",
+               "short_name" : "135号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xingang West Road",
+               "short_name" : "Xingang W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BinJiang Lu",
+               "short_name" : "BinJiang Lu",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haizhu Qu",
+               "short_name" : "Haizhu Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Guangzhou Shi",
+               "short_name" : "Guangzhou Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong Sheng",
+               "short_name" : "Guangdong Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "135 Xingang W Rd, BinJiang Lu, Haizhu Qu, Guangzhou Shi, Guangdong Sheng, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0965384,
+               "lng" : 113.298883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0978873802915,
+                  "lng" : 113.3002319802915
+               },
+               "southwest" : {
+                  "lat" : 23.0951894197085,
+                  "lng" : 113.2975340197085
+               }
+            }
+         },
+         "place_id" : "ChIJr-OjwFj_AjQRKUhuruOE8js",
+         "plus_code" : {
+            "compound_code" : "37WX+JH Haizhu, Guangzhou, Guangdong, China",
+            "global_code" : "7PMM37WX+JH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

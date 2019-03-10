@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avinguda de Blasco Ibáñez",
+               "short_name" : "Av. de Blasco Ibáñez",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "València",
+               "short_name" : "València",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad Valenciana",
+               "short_name" : "Comunidad Valenciana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46010",
+               "short_name" : "46010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. de Blasco Ibáñez, 13, 46010 València, Valencia, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.4793254,
+               "lng" : -0.3593863
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4806743802915,
+                  "lng" : -0.3580373197084979
+               },
+               "southwest" : {
+                  "lat" : 39.4779764197085,
+                  "lng" : -0.360735280291502
+               }
+            }
+         },
+         "place_id" : "ChIJx1PpM5pIYA0RZPp05kf8Nko",
+         "plus_code" : {
+            "compound_code" : "FJHR+P6 Valencia, Spain",
+            "global_code" : "8CFXFJHR+P6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

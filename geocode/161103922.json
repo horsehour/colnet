@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Biegenstraße",
+               "short_name" : "Biegenstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marburg",
+               "short_name" : "Marburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marburg-Biedenkopf",
+               "short_name" : "Marburg-Biedenkopf",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35037",
+               "short_name" : "35037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biegenstraße 10, 35037 Marburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8106859,
+               "lng" : 8.7741641
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.81203488029151,
+                  "lng" : 8.775513080291502
+               },
+               "southwest" : {
+                  "lat" : 50.80933691970851,
+                  "lng" : 8.772815119708497
+               }
+            }
+         },
+         "place_id" : "ChIJ6wEPhDKIvEcRek_rR6upwWU",
+         "plus_code" : {
+            "compound_code" : "RQ6F+7M Marburg, Germany",
+            "global_code" : "9F2CRQ6F+7M"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

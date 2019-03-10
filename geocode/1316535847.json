@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "330",
+               "short_name" : "330",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookline Avenue",
+               "short_name" : "Brookline Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02215",
+               "short_name" : "02215",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5400",
+               "short_name" : "5400",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "330 Brookline Ave, Boston, MA 02215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3397805,
+               "lng" : -71.1048012
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3411294802915,
+                  "lng" : -71.1034522197085
+               },
+               "southwest" : {
+                  "lat" : 42.3384315197085,
+                  "lng" : -71.10615018029151
+               }
+            }
+         },
+         "place_id" : "ChIJx9tfo41544kRp0p2U8jJGc0",
+         "plus_code" : {
+            "compound_code" : "8VQW+W3 Boston, Massachusetts, United States",
+            "global_code" : "87JC8VQW+W3"
+         },
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

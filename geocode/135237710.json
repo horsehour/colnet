@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wenli Road",
+               "short_name" : "Wenli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wucheng Qu",
+               "short_name" : "Wucheng Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Jinhua Shi",
+               "short_name" : "Jinhua Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang Sheng",
+               "short_name" : "Zhejiang Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "321001",
+               "short_name" : "321001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wenli Rd, Wucheng Qu, Jinhua Shi, Zhejiang Sheng, China, 321001",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.130555,
+               "lng" : 119.63673
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1319039802915,
+                  "lng" : 119.6380789802915
+               },
+               "southwest" : {
+                  "lat" : 29.1292060197085,
+                  "lng" : 119.6353810197085
+               }
+            }
+         },
+         "place_id" : "ChIJH1JEIloSSTQRzPXWy7VyP7w",
+         "plus_code" : {
+            "compound_code" : "4JJP+6M Wucheng, Jinhua, Zhejiang, China",
+            "global_code" : "7PXX4JJP+6M"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

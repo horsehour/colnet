@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown Oakland",
+               "short_name" : "Downtown Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Oakland",
+               "short_name" : "Oakland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94612",
+               "short_name" : "94612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Broadway, Oakland, CA 94612, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.8059875,
+               "lng" : -122.2696868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8073364802915,
+                  "lng" : -122.2683378197085
+               },
+               "southwest" : {
+                  "lat" : 37.8046385197085,
+                  "lng" : -122.2710357802915
+               }
+            }
+         },
+         "place_id" : "ChIJg9ZbwbGAj4ARX28fBuWE2mw",
+         "plus_code" : {
+            "compound_code" : "RP4J+94 Oakland, California, United States",
+            "global_code" : "849VRP4J+94"
+         },
+         "types" : [
+            "establishment",
+            "health",
+            "point_of_interest",
+            "school",
+            "university"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

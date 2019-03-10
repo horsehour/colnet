@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Convent Avenue",
+               "short_name" : "Convent Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10031",
+               "short_name" : "10031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "160 Convent Ave, New York, NY 10031, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8200471,
+               "lng" : -73.9492724
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8213960802915,
+                  "lng" : -73.94792341970849
+               },
+               "southwest" : {
+                  "lat" : 40.8186981197085,
+                  "lng" : -73.95062138029149
+               }
+            }
+         },
+         "place_id" : "ChIJ9Zaof2X2wokRGlYJrMCphac",
+         "plus_code" : {
+            "compound_code" : "R3C2+27 New York, United States",
+            "global_code" : "87G8R3C2+27"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

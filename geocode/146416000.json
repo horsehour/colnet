@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1450",
+               "short_name" : "1450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jayhawk Boulevard",
+               "short_name" : "Jayhawk Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lawrence",
+               "short_name" : "Lawrence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66045",
+               "short_name" : "66045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1450 Jayhawk Blvd, Lawrence, KS 66045, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9543439,
+               "lng" : -95.2557961
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.95569288029149,
+                  "lng" : -95.25444711970849
+               },
+               "southwest" : {
+                  "lat" : 38.9529949197085,
+                  "lng" : -95.25714508029149
+               }
+            }
+         },
+         "place_id" : "ChIJc9ao8zJvv4cRKIIjqyFOcVM",
+         "plus_code" : {
+            "compound_code" : "XP3V+PM Lawrence, Kansas, United States",
+            "global_code" : "86C6XP3V+PM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University of Kansas",
+               "short_name" : "KS-10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lawrence",
+               "short_name" : "Lawrence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66045",
+               "short_name" : "66045",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3155",
+               "short_name" : "3155",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1 University of Kansas, Lawrence, KS 66045, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9297873,
+               "lng" : -95.25722599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9311362802915,
+                  "lng" : -95.25587701970848
+               },
+               "southwest" : {
+                  "lat" : 38.9284383197085,
+                  "lng" : -95.2585749802915
+               }
+            }
+         },
+         "place_id" : "ChIJKzRuY-hov4cRa8Tjrxkba4Y",
+         "plus_code" : {
+            "compound_code" : "WPHV+W4 Lawrence, Kansas, United States",
+            "global_code" : "86C6WPHV+W4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

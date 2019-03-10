@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campus Universitário Lagoa Nova",
+               "short_name" : "Campus Universitário Lagoa Nova",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lagoa Nova",
+               "short_name" : "Lagoa Nova",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Natal",
+               "short_name" : "Natal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Norte",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59078-970",
+               "short_name" : "59078-970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Campus Universitário Lagoa Nova - Lagoa Nova, Natal - RN, 59078-970, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.8407114,
+               "lng" : -35.2005854
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.839362419708498,
+                  "lng" : -35.1992364197085
+               },
+               "southwest" : {
+                  "lat" : -5.842060380291502,
+                  "lng" : -35.2019343802915
+               }
+            }
+         },
+         "place_id" : "ChIJcZG0hZ3_sgcR8ngwG67I1A4",
+         "plus_code" : {
+            "compound_code" : "5Q5X+PQ Natal, State of Rio Grande do Norte, Brazil",
+            "global_code" : "69665Q5X+PQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

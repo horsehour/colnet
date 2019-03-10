@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chongwen Road",
+               "short_name" : "Chongwen Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "HuangJueYa",
+               "short_name" : "HuangJueYa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nanan Qu",
+               "short_name" : "Nanan Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Chongqing Shi",
+               "short_name" : "Chongqing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400065",
+               "short_name" : "400065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Chongwen Rd, HuangJueYa, Nanan Qu, Chongqing Shi, China, 400065",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.535171,
+               "lng" : 106.605308
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.53651998029149,
+                  "lng" : 106.6066569802915
+               },
+               "southwest" : {
+                  "lat" : 29.5338220197085,
+                  "lng" : 106.6039590197085
+               }
+            }
+         },
+         "place_id" : "ChIJPwz-nkA0kzYRTk_LTVX1Zr4",
+         "plus_code" : {
+            "compound_code" : "GJP4+34 Nan'an, Chongqing, China",
+            "global_code" : "7PX8GJP4+34"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

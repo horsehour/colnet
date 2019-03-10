@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80060-000",
+               "short_name" : "80060-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua XV de Novembro, 1299 - Centro, Curitiba - PR, 80060-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4269081,
+               "lng" : -49.2617658
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4255591197085,
+                  "lng" : -49.2604168197085
+               },
+               "southwest" : {
+                  "lat" : -25.4282570802915,
+                  "lng" : -49.2631147802915
+               }
+            }
+         },
+         "place_id" : "ChIJzeEcgT_k3JQRwpDc4oINPOg",
+         "plus_code" : {
+            "compound_code" : "HPFQ+67 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPFQ+67"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

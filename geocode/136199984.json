@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02138",
+               "short_name" : "02138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, MA 02138, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3770029,
+               "lng" : -71.11666009999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3783518802915,
+                  "lng" : -71.11531111970848
+               },
+               "southwest" : {
+                  "lat" : 42.3756539197085,
+                  "lng" : -71.1180090802915
+               }
+            }
+         },
+         "place_id" : "ChIJmQF_fUJ344kR8Cck7lzGN1k",
+         "plus_code" : {
+            "compound_code" : "9VGM+R8 Cambridge, Massachusetts, United States",
+            "global_code" : "87JC9VGM+R8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Marina",
+               "short_name" : "Piazza Marina",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Marina, 61, 90133 Palermo PA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.11779,
+               "lng" : 13.369838
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1191389802915,
+                  "lng" : 13.3711869802915
+               },
+               "southwest" : {
+                  "lat" : 38.1164410197085,
+                  "lng" : 13.3684890197085
+               }
+            }
+         },
+         "place_id" : "ChIJF5DfmPLlGRMRiSk4YqbOYf0",
+         "plus_code" : {
+            "compound_code" : "4999+4W Palermo, Province of Palermo, Italy",
+            "global_code" : "8FCM4999+4W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albergo delle Povere",
+               "short_name" : "Albergo delle Povere",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "219",
+               "short_name" : "219",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corso Calatafimi",
+               "short_name" : "Corso Calatafimi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90133",
+               "short_name" : "90133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albergo delle Povere, Corso Calatafimi, 219, 90133 Palermo PA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1095458,
+               "lng" : 13.3458902
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1108947802915,
+                  "lng" : 13.3472391802915
+               },
+               "southwest" : {
+                  "lat" : 38.1081968197085,
+                  "lng" : 13.3445412197085
+               }
+            }
+         },
+         "place_id" : "ChIJE_Py7m_vGRMRWNYNvjY6Lbo",
+         "plus_code" : {
+            "compound_code" : "485W+R9 Palermo, Province of Palermo, Italy",
+            "global_code" : "8FCM485W+R9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8727",
+               "short_name" : "8727",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Watertown Plank Road",
+               "short_name" : "W Watertown Plank Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee County",
+               "short_name" : "Milwaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53213",
+               "short_name" : "53213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8727 W Watertown Plank Rd, Milwaukee, WI 53213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.045278,
+               "lng" : -88.022402
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0466269802915,
+                  "lng" : -88.0210530197085
+               },
+               "southwest" : {
+                  "lat" : 43.0439290197085,
+                  "lng" : -88.02375098029151
+               }
+            }
+         },
+         "place_id" : "ChIJB9UBUdcEBYgRbYvddl3i4pU",
+         "plus_code" : {
+            "compound_code" : "2XWH+42 Wauwatosa, Wisconsin, United States",
+            "global_code" : "86MH2XWH+42"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia County",
+               "short_name" : "Philadelphia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9522188,
+               "lng" : -75.1932137
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95356778029149,
+                  "lng" : -75.19186471970849
+               },
+               "southwest" : {
+                  "lat" : 39.95086981970849,
+                  "lng" : -75.1945626802915
+               }
+            }
+         },
+         "place_id" : "ChIJwcw7f1rGxokRlP7WsqKm6gk",
+         "plus_code" : {
+            "compound_code" : "XR24+VP Philadelphia, Pennsylvania, United States",
+            "global_code" : "87F6XR24+VP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3400",
+               "short_name" : "3400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Civic Center Boulevard",
+               "short_name" : "Civic Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia County",
+               "short_name" : "Philadelphia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3400 Civic Center Blvd, Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9476279,
+               "lng" : -75.19259799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9489768802915,
+                  "lng" : -75.19124901970848
+               },
+               "southwest" : {
+                  "lat" : 39.9462789197085,
+                  "lng" : -75.19394698029149
+               }
+            }
+         },
+         "place_id" : "ChIJhcdks17GxokRtMLHYGpVjwg",
+         "plus_code" : {
+            "compound_code" : "WRX4+3X Philadelphia, Pennsylvania, United States",
+            "global_code" : "87F6WRX4+3X"
+         },
+         "types" : [ "establishment", "health", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

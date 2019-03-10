@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sadler Center",
+               "short_name" : "Sadler Center",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stadium Drive",
+               "short_name" : "Stadium Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Williamsburg",
+               "short_name" : "Williamsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23185",
+               "short_name" : "23185",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sadler Center, 200 Stadium Dr, Williamsburg, VA 23185, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.271674,
+               "lng" : -76.71337799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2730229802915,
+                  "lng" : -76.7120290197085
+               },
+               "southwest" : {
+                  "lat" : 37.2703250197085,
+                  "lng" : -76.7147269802915
+               }
+            }
+         },
+         "place_id" : "ChIJMWOHJcN4sIkRte0qJwGuwco",
+         "plus_code" : {
+            "compound_code" : "77CP+MJ Williamsburg, Virginia, United States",
+            "global_code" : "879577CP+MJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

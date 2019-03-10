@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1150",
+               "short_name" : "1150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carroll Street",
+               "short_name" : "Carroll St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crown Heights",
+               "short_name" : "Crown Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11225",
+               "short_name" : "11225",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2201",
+               "short_name" : "2201",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1150 Carroll St, Brooklyn, NY 11225, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6670739,
+               "lng" : -73.9522688
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6684228802915,
+                  "lng" : -73.95091981970849
+               },
+               "southwest" : {
+                  "lat" : 40.6657249197085,
+                  "lng" : -73.95361778029151
+               }
+            }
+         },
+         "place_id" : "ChIJzVCft3ZbwokRgjBcCX5Xzqg",
+         "plus_code" : {
+            "compound_code" : "M28X+R3 New York, United States",
+            "global_code" : "87G8M28X+R3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

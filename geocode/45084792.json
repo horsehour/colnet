@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza di San Marco",
+               "short_name" : "Piazza di San Marco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Firenze",
+               "short_name" : "Firenze",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Firenze",
+               "short_name" : "Firenze",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Firenze",
+               "short_name" : "FI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50121",
+               "short_name" : "50121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza di San Marco, 4, 50121 Firenze FI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7776426,
+               "lng" : 11.259765
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7789915802915,
+                  "lng" : 11.2611139802915
+               },
+               "southwest" : {
+                  "lat" : 43.7762936197085,
+                  "lng" : 11.2584160197085
+               }
+            }
+         },
+         "place_id" : "ChIJU643lg5UKhMR-LjVKkHJReI",
+         "plus_code" : {
+            "compound_code" : "Q7H5+3W Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7H5+3W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

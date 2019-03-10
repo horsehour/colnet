@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Slomškov trg",
+               "short_name" : "Slomškov trg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Maribor",
+               "short_name" : "Maribor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Upravna enota Maribor",
+               "short_name" : "Upravna enota Maribor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Slomškov trg 15, 2000 Maribor, Slovenia",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5591885,
+               "lng" : 15.6433073
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.56053748029149,
+                  "lng" : 15.6446562802915
+               },
+               "southwest" : {
+                  "lat" : 46.55783951970849,
+                  "lng" : 15.6419583197085
+               }
+            }
+         },
+         "place_id" : "ChIJS1NUIa93b0cRgjMoCOOjTMA",
+         "plus_code" : {
+            "compound_code" : "HJ5V+M8 Maribor, Slovenia",
+            "global_code" : "8FRQHJ5V+M8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5115",
+               "short_name" : "5115",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hampton Boulevard",
+               "short_name" : "Hampton Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23529",
+               "short_name" : "23529",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5115 Hampton Blvd, Norfolk, VA 23529, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.8853217,
+               "lng" : -76.3058786
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.88667068029149,
+                  "lng" : -76.30452961970849
+               },
+               "southwest" : {
+                  "lat" : 36.8839727197085,
+                  "lng" : -76.3072275802915
+               }
+            }
+         },
+         "place_id" : "ChIJRTm6JK2ZuokRrEtOLEPcK80",
+         "plus_code" : {
+            "compound_code" : "VMPV+4J Norfolk, Virginia, United States",
+            "global_code" : "8785VMPV+4J"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

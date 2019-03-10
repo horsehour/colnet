@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06520",
+               "short_name" : "06520",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Haven, CT 06520, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3163244,
+               "lng" : -72.92234309999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3176733802915,
+                  "lng" : -72.92099411970848
+               },
+               "southwest" : {
+                  "lat" : 41.3149754197085,
+                  "lng" : -72.9236920802915
+               }
+            }
+         },
+         "place_id" : "ChIJRUlizbbZ54kRJwTTtMSiNK4",
+         "plus_code" : {
+            "compound_code" : "838H+G3 New Haven, Connecticut, United States",
+            "global_code" : "87H9838H+G3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

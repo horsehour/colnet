@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazzale Aldo Moro",
+               "short_name" : "Piazzale Aldo Moro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "Roma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "Roma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Roma",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00185",
+               "short_name" : "00185",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazzale Aldo Moro, 5, 00185 Roma RM, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9037626,
+               "lng" : 12.5144384
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9051115802915,
+                  "lng" : 12.5157873802915
+               },
+               "southwest" : {
+                  "lat" : 41.9024136197085,
+                  "lng" : 12.5130894197085
+               }
+            }
+         },
+         "place_id" : "ChIJEdnnD1uPJRMRK_3cVrFCU-0",
+         "plus_code" : {
+            "compound_code" : "WG37+GQ Rome, Metropolitan City of Rome, Italy",
+            "global_code" : "8FHJWG37+GQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

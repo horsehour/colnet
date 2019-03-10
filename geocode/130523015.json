@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bol'shaya Morskaya Ulitsa",
+               "short_name" : "Bol'shaya Morskaya Ulitsa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sankt-Peterburg",
+               "short_name" : "СПБ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Admiralteyskiy",
+               "short_name" : "Admiralteyskiy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sankt-Peterburg",
+               "short_name" : "Sankt-Peterburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "190000",
+               "short_name" : "190000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bol'shaya Morskaya Ulitsa, 67, Sankt-Peterburg, Russia, 190000",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.929491,
+               "lng" : 30.2966081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.9308399802915,
+                  "lng" : 30.2979570802915
+               },
+               "southwest" : {
+                  "lat" : 59.92814201970849,
+                  "lng" : 30.2952591197085
+               }
+            }
+         },
+         "place_id" : "ChIJT66TCOIwlkYRcj6biOHOzGQ",
+         "plus_code" : {
+            "compound_code" : "W7HW+QJ Admiralteysky District, Saint Petersburg, Russia",
+            "global_code" : "9GFGW7HW+QJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

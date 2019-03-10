@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Powder Mill Road",
+               "short_name" : "Powder Mill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adelphi",
+               "short_name" : "Adelphi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20783",
+               "short_name" : "20783",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1138",
+               "short_name" : "1138",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2800 Powder Mill Rd, Adelphi, MD 20783, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0298587,
+               "lng" : -76.9638027
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.03120768029149,
+                  "lng" : -76.96245371970849
+               },
+               "southwest" : {
+                  "lat" : 39.0285097197085,
+                  "lng" : -76.96515168029151
+               }
+            }
+         },
+         "place_id" : "ChIJv-gHwkzEt4kRclzjEmDn7pc",
+         "plus_code" : {
+            "compound_code" : "22HP+WF White Oak, 5, MD, United States",
+            "global_code" : "87F522HP+WF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

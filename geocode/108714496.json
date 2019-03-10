@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4309",
+               "short_name" : "4309",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Boulevard South",
+               "short_name" : "University Blvd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sans Souci",
+               "short_name" : "Sans Souci",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jacksonville",
+               "short_name" : "Jacksonville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Duval County",
+               "short_name" : "Duval County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32216",
+               "short_name" : "32216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4309 University Blvd S, Jacksonville, FL 32216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.2794607,
+               "lng" : -81.60244999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2808096802915,
+                  "lng" : -81.60110101970849
+               },
+               "southwest" : {
+                  "lat" : 30.2781117197085,
+                  "lng" : -81.6037989802915
+               }
+            }
+         },
+         "place_id" : "ChIJy1lbR-C15YgReihuqOrpAdo",
+         "plus_code" : {
+            "compound_code" : "79HX+Q2 Southside, Jacksonville, FL, United States",
+            "global_code" : "862W79HX+Q2"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

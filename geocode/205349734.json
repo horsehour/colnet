@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5 Chome",
+               "short_name" : "5 Chome",
+               "types" : [ "political", "sublocality", "sublocality_level_3" ]
+            },
+            {
+               "long_name" : "Kita 8 Jonishi",
+               "short_name" : "Kita 8 Jonishi",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Kita",
+               "short_name" : "Kita",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sapporo",
+               "short_name" : "Sapporo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido",
+               "short_name" : "Hokkaido",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "060-0808",
+               "short_name" : "060-0808",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5 Chome Kita 8 Jonishi, Kita, Sapporo, Hokkaido 060-0808, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0779575,
+               "lng" : 141.340013
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.07930648029149,
+                  "lng" : 141.3413619802915
+               },
+               "southwest" : {
+                  "lat" : 43.07660851970849,
+                  "lng" : 141.3386640197085
+               }
+            }
+         },
+         "place_id" : "ChIJQ5rcxQspC18R1YYLPgKYX0I",
+         "plus_code" : {
+            "compound_code" : "38HR+52 Sapporo, Hokkaido, Japan",
+            "global_code" : "8RM338HR+52"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

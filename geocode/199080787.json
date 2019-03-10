@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "１０−２",
+               "short_name" : "１０−２",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "3 Chome",
+               "short_name" : "3 Chome",
+               "types" : [ "political", "sublocality", "sublocality_level_3" ]
+            },
+            {
+               "long_name" : "Osawa",
+               "short_name" : "Osawa",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Mitaka",
+               "short_name" : "Mitaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "181-8585",
+               "short_name" : "181-8585",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Chome-3-１０−２ Osawa, Mitaka, Tokyo 181-8585, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6875365,
+               "lng" : 139.5295507
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6888854802915,
+                  "lng" : 139.5308996802915
+               },
+               "southwest" : {
+                  "lat" : 35.6861875197085,
+                  "lng" : 139.5282017197085
+               }
+            }
+         },
+         "place_id" : "ChIJVVXFjYnvGGARBI7KVs0Lj30",
+         "plus_code" : {
+            "compound_code" : "MGQH+2R Mitaka, Tokyo, Japan",
+            "global_code" : "8Q7XMGQH+2R"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

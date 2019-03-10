@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza S.Francesco",
+               "short_name" : "Piazza S.Francesco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lucca",
+               "short_name" : "Lucca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucca",
+               "short_name" : "Lucca",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Lucca",
+               "short_name" : "LU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55100",
+               "short_name" : "55100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza S.Francesco, 19, 55100 Lucca LU, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.84553570000001,
+               "lng" : 10.510861
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.84688468029151,
+                  "lng" : 10.5122099802915
+               },
+               "southwest" : {
+                  "lat" : 43.84418671970851,
+                  "lng" : 10.5095120197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7WNEuvOD1RIR-anFb-6n6qc",
+         "plus_code" : {
+            "compound_code" : "RGW6+68 Lucca, Province of Lucca, Italy",
+            "global_code" : "8FMGRGW6+68"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

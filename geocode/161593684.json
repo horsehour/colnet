@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frescativägen",
+               "short_name" : "Frescativägen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Östermalm",
+               "short_name" : "Östermalm",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockholms län",
+               "short_name" : "Stockholms län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114 19",
+               "short_name" : "114 19",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frescativägen, 114 19 Stockholm, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.3621737,
+               "lng" : 18.057831
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3635226802915,
+                  "lng" : 18.0591799802915
+               },
+               "southwest" : {
+                  "lat" : 59.3608247197085,
+                  "lng" : 18.0564820197085
+               }
+            }
+         },
+         "place_id" : "ChIJT_XhoQ-dX0YR_SUcrkvP-Po",
+         "plus_code" : {
+            "compound_code" : "9365+V4 Stockholm, Sweden",
+            "global_code" : "9FFW9365+V4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

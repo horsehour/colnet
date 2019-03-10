@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1155",
+               "short_name" : "1155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Union Circle",
+               "short_name" : "Union Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denton",
+               "short_name" : "Denton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denton County",
+               "short_name" : "Denton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76203",
+               "short_name" : "76203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1155 Union Cir, Denton, TX 76203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.207488,
+               "lng" : -97.1525862
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2088369802915,
+                  "lng" : -97.15123721970851
+               },
+               "southwest" : {
+                  "lat" : 33.2061390197085,
+                  "lng" : -97.15393518029151
+               }
+            }
+         },
+         "place_id" : "ChIJyY815HPKTYYRCmlH-kWfvQs",
+         "plus_code" : {
+            "compound_code" : "6R4W+XX Denton, Texas, United States",
+            "global_code" : "86546R4W+XX"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond Street",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G1 1XQ",
+               "short_name" : "G1 1XQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "16 Richmond St, Glasgow G1 1XQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.862122,
+               "lng" : -4.2422851
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8634709802915,
+                  "lng" : -4.240936119708498
+               },
+               "southwest" : {
+                  "lat" : 55.8607730197085,
+                  "lng" : -4.243634080291502
+               }
+            }
+         },
+         "place_id" : "ChIJtaRY9h1EiEgRvq3jwDM9FGA",
+         "plus_code" : {
+            "compound_code" : "VQ65+R3 Glasgow, United Kingdom",
+            "global_code" : "9C7QVQ65+R3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

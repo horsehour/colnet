@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Pleasant Avenue",
+               "short_name" : "Mt Pleasant Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Pleasant",
+               "short_name" : "Mount Pleasant",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02908",
+               "short_name" : "02908",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "600 Mt Pleasant Ave, Providence, RI 02908, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.84220699999999,
+               "lng" : -71.461204
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8435559802915,
+                  "lng" : -71.4598550197085
+               },
+               "southwest" : {
+                  "lat" : 41.8408580197085,
+                  "lng" : -71.46255298029151
+               }
+            }
+         },
+         "place_id" : "ChIJGbgZEMtF5IkRTzc30VZ4kAg",
+         "plus_code" : {
+            "compound_code" : "RGRQ+VG Providence, Rhode Island, United States",
+            "global_code" : "87HCRGRQ+VG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

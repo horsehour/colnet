@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rämistrasse",
+               "short_name" : "Rämistrasse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kreis 1",
+               "short_name" : "Kreis 1",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Zürich",
+               "short_name" : "Zürich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zürich",
+               "short_name" : "Zürich",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zürich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8092",
+               "short_name" : "8092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rämistrasse 101, 8092 Zürich, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.376313,
+               "lng" : 8.547669899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3776619802915,
+                  "lng" : 8.549018880291502
+               },
+               "southwest" : {
+                  "lat" : 47.3749640197085,
+                  "lng" : 8.546320919708497
+               }
+            }
+         },
+         "place_id" : "ChIJ94xuUaagmkcRB3Y3tij0YUs",
+         "plus_code" : {
+            "compound_code" : "9GGX+G3 Zürich, Switzerland",
+            "global_code" : "8FVC9GGX+G3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

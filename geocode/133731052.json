@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yliopistonkatu",
+               "short_name" : "Yliopistonkatu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00100",
+               "short_name" : "00100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yliopistonkatu 4, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.1726348,
+               "lng" : 24.9510419
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.17398378029151,
+                  "lng" : 24.9523908802915
+               },
+               "southwest" : {
+                  "lat" : 60.17128581970849,
+                  "lng" : 24.9496929197085
+               }
+            }
+         },
+         "place_id" : "ChIJKdnpLyoKkkYRYkemn5HrOD4",
+         "plus_code" : {
+            "compound_code" : "5XF2+3C Helsinki, Finland",
+            "global_code" : "9GG65XF2+3C"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

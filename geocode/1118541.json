@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich Research Park",
+               "short_name" : "Norwich Research Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4 7TJ",
+               "short_name" : "NR4 7TJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Norwich Research Park, Norwich NR4 7TJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6219215,
+               "lng" : 1.2391761
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6232704802915,
+                  "lng" : 1.240525080291502
+               },
+               "southwest" : {
+                  "lat" : 52.6205725197085,
+                  "lng" : 1.237827119708498
+               }
+            }
+         },
+         "place_id" : "ChIJAViAe9jg2UcRc-VEB_B7ubk",
+         "plus_code" : {
+            "compound_code" : "J6CQ+QM Norwich, United Kingdom",
+            "global_code" : "9F43J6CQ+QM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

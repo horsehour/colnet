@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3663",
+               "short_name" : "3663",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhongshan North Road",
+               "short_name" : "Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Putuo",
+               "short_name" : "Putuo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China, Shanghai, Putuo, Zhongshan N Rd, 3663号华东师范大学MBA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.227667,
+               "lng" : 121.406829
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2290159802915,
+                  "lng" : 121.4081779802915
+               },
+               "southwest" : {
+                  "lat" : 31.2263180197085,
+                  "lng" : 121.4054800197085
+               }
+            }
+         },
+         "place_id" : "ChIJnzuoyX9lsjUR2euODkY6zXU",
+         "plus_code" : {
+            "compound_code" : "6CH4+3P Putuo, Shanghai, China",
+            "global_code" : "8Q336CH4+3P"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

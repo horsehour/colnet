@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1235",
+               "short_name" : "1235",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Professor Moraes Rego",
+               "short_name" : "Avenida Professor Moraes Rego",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pernambuco",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50670-901",
+               "short_name" : "50670-901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Prof. Moraes Rego, 1235 - Cidade Universitária, Recife - PE, 50670-901, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.052447799999999,
+               "lng" : -34.9497286
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.051098819708496,
+                  "lng" : -34.9483796197085
+               },
+               "southwest" : {
+                  "lat" : -8.053796780291501,
+                  "lng" : -34.9510775802915
+               }
+            }
+         },
+         "place_id" : "ChIJFdQJ1GYZqwcRUuoA7uLyfUk",
+         "plus_code" : {
+            "compound_code" : "W3X2+24 Recife - Paratibe, Recife - State of Pernambuco, Brazil",
+            "global_code" : "6937W3X2+24"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

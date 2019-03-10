@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corvallis",
+               "short_name" : "Corvallis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97331",
+               "short_name" : "97331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corvallis, OR 97331, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5637806,
+               "lng" : -123.2794443
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5651295802915,
+                  "lng" : -123.2780953197085
+               },
+               "southwest" : {
+                  "lat" : 44.5624316197085,
+                  "lng" : -123.2807932802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ7tQ6rlAwFQRn7T3Adzx_6Y",
+         "plus_code" : {
+            "compound_code" : "HP7C+G6 Corvallis, Oregon, United States",
+            "global_code" : "84PRHP7C+G6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "# 1011",
+               "short_name" : "# 1011",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kerr Admin Bldg",
+               "short_name" : "Kerr Admin Bldg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corvallis",
+               "short_name" : "Corvallis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97331",
+               "short_name" : "97331",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8519",
+               "short_name" : "8519",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "104 Kerr Admin Bldg # 1011, Corvallis, OR 97331, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5640033,
+               "lng" : -123.2747343
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5653522802915,
+                  "lng" : -123.2733853197085
+               },
+               "southwest" : {
+                  "lat" : 44.5626543197085,
+                  "lng" : -123.2760832802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ7tQ6rlAwFQRZJW-u-kBbjY",
+         "plus_code" : {
+            "compound_code" : "HP7G+J4 Corvallis, Oregon, United States",
+            "global_code" : "84PRHP7G+J4"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

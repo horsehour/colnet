@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "High Cross",
+               "short_name" : "High Cross",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Madingley Road",
+               "short_name" : "Madingley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB3 0ET",
+               "short_name" : "CB3 0ET",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "High Cross, Madingley Rd, Cambridge CB3 0ET, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2127821,
+               "lng" : 0.0799352
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.21413108029149,
+                  "lng" : 0.08128418029150203
+               },
+               "southwest" : {
+                  "lat" : 52.2114331197085,
+                  "lng" : 0.07858621970849797
+               }
+            }
+         },
+         "place_id" : "ChIJKWrr2El32EcRQ1bN-QtSiZQ",
+         "plus_code" : {
+            "compound_code" : "637H+4X Cambridge, United Kingdom",
+            "global_code" : "9F42637H+4X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

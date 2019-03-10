@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "322",
+               "short_name" : "322",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Borealis Way",
+               "short_name" : "Borealis Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bellefonte",
+               "short_name" : "Bellefonte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walker Township",
+               "short_name" : "Walker Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Centre County",
+               "short_name" : "Centre County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16823",
+               "short_name" : "16823",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "322 Borealis Way, Bellefonte, PA 16823, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9206054,
+               "lng" : -77.6515984
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9219543802915,
+                  "lng" : -77.6502494197085
+               },
+               "southwest" : {
+                  "lat" : 40.9192564197085,
+                  "lng" : -77.65294738029151
+               }
+            }
+         },
+         "place_id" : "ChIJ0-JZOgq-zokR6QAHS5eHang",
+         "plus_code" : {
+            "compound_code" : "W8CX+69 Zion, Walker Township, PA, United States",
+            "global_code" : "87G4W8CX+69"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

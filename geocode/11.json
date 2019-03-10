@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1330",
+               "short_name" : "1330",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enclave Parkway",
+               "short_name" : "Enclave Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Energy Corridor",
+               "short_name" : "Energy Corridor",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77077",
+               "short_name" : "77077",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2577",
+               "short_name" : "2577",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1330 Enclave Pkwy, Houston, TX 77077, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7614914,
+               "lng" : -95.6205844
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7628403802915,
+                  "lng" : -95.6192354197085
+               },
+               "southwest" : {
+                  "lat" : 29.7601424197085,
+                  "lng" : -95.62193338029151
+               }
+            }
+         },
+         "place_id" : "ChIJOye3n3XcQIYRUwqGehYkyOs",
+         "plus_code" : {
+            "compound_code" : "Q96H+HQ Westside, Houston, TX, United States",
+            "global_code" : "76X6Q96H+HQ"
+         },
+         "types" : [ "car_repair", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

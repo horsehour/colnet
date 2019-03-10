@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3246",
+               "short_name" : "3246",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dorsoduro",
+               "short_name" : "Dorsoduro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Venezia",
+               "short_name" : "Venezia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venezia",
+               "short_name" : "Venezia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Venezia",
+               "short_name" : "VE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30123",
+               "short_name" : "30123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dorsoduro, 3246, 30123 Venezia VE, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.434532,
+               "lng" : 12.326197
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4358809802915,
+                  "lng" : 12.3275459802915
+               },
+               "southwest" : {
+                  "lat" : 45.4331830197085,
+                  "lng" : 12.3248480197085
+               }
+            }
+         },
+         "place_id" : "ChIJb4RYlsSxfkcRZ4uF8hN1fEw",
+         "plus_code" : {
+            "compound_code" : "C8MG+RF Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MG+RF"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Problemveien",
+               "short_name" : "Problemveien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ullevål",
+               "short_name" : "Ullevål",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oslo kommune",
+               "short_name" : "Oslo kommune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0315",
+               "short_name" : "0315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Problemveien 7, 0315 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.9399586,
+               "lng" : 10.7217496
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.9413075802915,
+                  "lng" : 10.7230985802915
+               },
+               "southwest" : {
+                  "lat" : 59.93860961970849,
+                  "lng" : 10.7204006197085
+               }
+            }
+         },
+         "place_id" : "ChIJU3nLiuZtQUYRXdev6k3jcNw",
+         "plus_code" : {
+            "compound_code" : "WPQC+XM Oslo, Norway",
+            "global_code" : "9FFGWPQC+XM"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Karl Johans gate",
+               "short_name" : "Karl Johans gate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sentrum",
+               "short_name" : "Sentrum",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oslo kommune",
+               "short_name" : "Oslo kommune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0162",
+               "short_name" : "0162",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karl Johans gate 47, 0162 Oslo, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.91520360000001,
+               "lng" : 10.7349475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.91655258029151,
+                  "lng" : 10.7362964802915
+               },
+               "southwest" : {
+                  "lat" : 59.91385461970849,
+                  "lng" : 10.7335985197085
+               }
+            }
+         },
+         "place_id" : "ChIJQ355xn1uQUYRj4a_wUkWl8s",
+         "plus_code" : {
+            "compound_code" : "WP8M+3X Oslo, Norway",
+            "global_code" : "9FFGWP8M+3X"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

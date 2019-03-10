@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "70",
+               "short_name" : "70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza dei Caprettari",
+               "short_name" : "Piazza dei Caprettari",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "Roma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "Roma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Roma",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00186",
+               "short_name" : "00186",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza dei Caprettari, 70, 00186 Roma RM, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8978719,
+               "lng" : 12.4755015
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8992208802915,
+                  "lng" : 12.4768504802915
+               },
+               "southwest" : {
+                  "lat" : 41.8965229197085,
+                  "lng" : 12.4741525197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9dCfNU5gLxMRUanaejKYTFo",
+         "plus_code" : {
+            "compound_code" : "VFXG+46 Rome, Metropolitan City of Rome, Italy",
+            "global_code" : "8FHJVFXG+46"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

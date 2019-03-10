@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsring",
+               "short_name" : "Universitätsring",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Innere Stadt",
+               "short_name" : "Innere Stadt",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1010",
+               "short_name" : "1010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsring 1, 1010 Wien, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.21318549999999,
+               "lng" : 16.3600504
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2145344802915,
+                  "lng" : 16.3613993802915
+               },
+               "southwest" : {
+                  "lat" : 48.2118365197085,
+                  "lng" : 16.3587014197085
+               }
+            }
+         },
+         "place_id" : "ChIJ3dnT670HbUcRxPNzL0Nl9tc",
+         "plus_code" : {
+            "compound_code" : "6976+72 Vienna, Austria",
+            "global_code" : "8FWR6976+72"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spitalgasse",
+               "short_name" : "Spitalgasse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alsergrund",
+               "short_name" : "Alsergrund",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1090",
+               "short_name" : "1090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spitalgasse 2, 1090 Wien, Austria",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.2172156,
+               "lng" : 16.3532408
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.21856458029149,
+                  "lng" : 16.3545897802915
+               },
+               "southwest" : {
+                  "lat" : 48.2158666197085,
+                  "lng" : 16.3518918197085
+               }
+            }
+         },
+         "place_id" : "ChIJrfgSlMEHbUcR5exB4bu9MPw",
+         "plus_code" : {
+            "compound_code" : "6983+V7 Vienna, Austria",
+            "global_code" : "8FWR6983+V7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

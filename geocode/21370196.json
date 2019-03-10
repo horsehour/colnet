@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "541 24",
+               "short_name" : "541 24",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thessaloniki 541 24, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6308283,
+               "lng" : 22.9592224
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63217728029149,
+                  "lng" : 22.9605713802915
+               },
+               "southwest" : {
+                  "lat" : 40.62947931970849,
+                  "lng" : 22.95787341970849
+               }
+            }
+         },
+         "place_id" : "ChIJyZInQ_84qBQR6cjmwx3-7hU",
+         "plus_code" : {
+            "compound_code" : "JXJ5+8M Thessaloniki, Greece",
+            "global_code" : "8GG4JXJ5+8M"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

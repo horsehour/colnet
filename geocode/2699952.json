@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "225",
+               "short_name" : "225",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marquês de São Vicente",
+               "short_name" : "R. Marquês de São Vicente",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gávea",
+               "short_name" : "Gávea",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22451-900",
+               "short_name" : "22451-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Marquês de São Vicente, 225 - Gávea, Rio de Janeiro - RJ, 22451-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9791074,
+               "lng" : -43.23308249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9777584197085,
+                  "lng" : -43.2317335197085
+               },
+               "southwest" : {
+                  "lat" : -22.9804563802915,
+                  "lng" : -43.2344314802915
+               }
+            }
+         },
+         "place_id" : "ChIJbWOXdMrVmwARrBowlD9mYRk",
+         "plus_code" : {
+            "compound_code" : "2QC8+9Q Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2QC8+9Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

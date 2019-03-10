@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lund",
+               "short_name" : "Lund",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lund",
+               "short_name" : "Lund",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skåne län",
+               "short_name" : "Skåne län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lund, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.7119483,
+               "lng" : 13.203493
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.71329728029149,
+                  "lng" : 13.2048419802915
+               },
+               "southwest" : {
+                  "lat" : 55.71059931970849,
+                  "lng" : 13.2021440197085
+               }
+            }
+         },
+         "place_id" : "ChIJY-886c6XU0YRipSzBG2DNo8",
+         "plus_code" : {
+            "compound_code" : "P663+Q9 Lund, Sweden",
+            "global_code" : "9F7MP663+Q9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

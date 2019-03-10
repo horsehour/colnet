@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "610",
+               "short_name" : "610",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Purdue Mall",
+               "short_name" : "Purdue Mall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Lafayette",
+               "short_name" : "West Lafayette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wabash Township",
+               "short_name" : "Wabash Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tippecanoe County",
+               "short_name" : "Tippecanoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47907",
+               "short_name" : "47907",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "610 Purdue Mall, West Lafayette, IN 47907, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4237054,
+               "lng" : -86.92119459999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.42505438029149,
+                  "lng" : -86.91984561970848
+               },
+               "southwest" : {
+                  "lat" : 40.4223564197085,
+                  "lng" : -86.92254358029149
+               }
+            }
+         },
+         "place_id" : "ChIJBwU-Qjf9EogRjnwai8-yzI4",
+         "plus_code" : {
+            "compound_code" : "C3FH+FG West Lafayette, Wabash Township, IN, United States",
+            "global_code" : "86GMC3FH+FG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

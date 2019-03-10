@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Main Street",
+               "short_name" : "N Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa County",
+               "short_name" : "Ottawa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74354",
+               "short_name" : "74354",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6328",
+               "short_name" : "6328",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2 N Main St, Miami, OK 74354, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.8748355,
+               "lng" : -94.87714109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.87618448029149,
+                  "lng" : -94.87579211970849
+               },
+               "southwest" : {
+                  "lat" : 36.87348651970849,
+                  "lng" : -94.8784900802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-XVegZQXyIcRCwy5EwRuZ_c",
+         "plus_code" : {
+            "compound_code" : "V4FF+W4 Miami, Oklahoma, United States",
+            "global_code" : "8687V4FF+W4"
+         },
+         "types" : [ "establishment", "insurance_agency", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

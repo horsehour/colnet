@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ludwigstraße",
+               "short_name" : "Ludwigstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "Gießen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "Gießen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35390",
+               "short_name" : "35390",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ludwigstraße 23, 35390 Gießen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.5804673,
+               "lng" : 8.6771403
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5818162802915,
+                  "lng" : 8.678489280291501
+               },
+               "southwest" : {
+                  "lat" : 50.5791183197085,
+                  "lng" : 8.675791319708496
+               }
+            }
+         },
+         "place_id" : "ChIJZW0NaetYvEcRwdVpH8bt-kg",
+         "plus_code" : {
+            "compound_code" : "HMJG+5V Giessen, Germany",
+            "global_code" : "9F2CHMJG+5V"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Demollstraße",
+               "short_name" : "Demollstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wielenbach",
+               "short_name" : "Wielenbach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weilheim-Schongau",
+               "short_name" : "Weilheim-Schongau",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82407",
+               "short_name" : "82407",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Demollstraße 31, 82407 Wielenbach, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.88324,
+               "lng" : 11.1573799
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8845889802915,
+                  "lng" : 11.1587288802915
+               },
+               "southwest" : {
+                  "lat" : 47.8818910197085,
+                  "lng" : 11.1560309197085
+               }
+            }
+         },
+         "place_id" : "ChIJiXfOiMLKnUcRcqOzmv6ItXE",
+         "plus_code" : {
+            "compound_code" : "V5M4+7X Wielenbach, Germany",
+            "global_code" : "8FVHV5M4+7X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

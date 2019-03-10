@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Martin Linges vei",
+               "short_name" : "Martin Linges vei",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fornebu",
+               "short_name" : "Fornebu",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bærum",
+               "short_name" : "Bærum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Akershus",
+               "short_name" : "Akershus",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1364",
+               "short_name" : "1364",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Martin Linges vei 25, 1364 Fornebu, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.89486239999999,
+               "lng" : 10.6289345
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8962113802915,
+                  "lng" : 10.6302834802915
+               },
+               "southwest" : {
+                  "lat" : 59.89351341970849,
+                  "lng" : 10.6275855197085
+               }
+            }
+         },
+         "place_id" : "ChIJa-UUXoxsQUYRMmJZR89Dh6o",
+         "plus_code" : {
+            "compound_code" : "VJVH+WH Fornebu, Bærum, Norway",
+            "global_code" : "9FFGVJVH+WH"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

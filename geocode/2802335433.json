@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "P. P. Ørums Gade",
+               "short_name" : "P. P. Ørums Gade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aarhus C",
+               "short_name" : "Aarhus C",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Aarhus",
+               "short_name" : "Aarhus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8000",
+               "short_name" : "8000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "P. P. Ørums Gade 11, 8000 Aarhus, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.14061049999999,
+               "lng" : 10.1880841
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1419594802915,
+                  "lng" : 10.1894330802915
+               },
+               "southwest" : {
+                  "lat" : 56.1392615197085,
+                  "lng" : 10.1867351197085
+               }
+            }
+         },
+         "place_id" : "ChIJeTy0iQpATEYRyPJ-PfD-p1I",
+         "plus_code" : {
+            "compound_code" : "45RQ+66 Aarhus, Aarhus Municipality, Denmark",
+            "global_code" : "9F8G45RQ+66"
+         },
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "419",
+               "short_name" : "419",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boston Avenue",
+               "short_name" : "Boston Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medford",
+               "short_name" : "Medford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02155",
+               "short_name" : "02155",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "419 Boston Ave, Medford, MA 02155, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4074843,
+               "lng" : -71.1190232
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4088332802915,
+                  "lng" : -71.1176742197085
+               },
+               "southwest" : {
+                  "lat" : 42.4061353197085,
+                  "lng" : -71.12037218029151
+               }
+            }
+         },
+         "place_id" : "ChIJHwvY2t1244kR5TyD-KE1c64",
+         "plus_code" : {
+            "compound_code" : "CV4J+X9 Medford, Massachusetts, United States",
+            "global_code" : "87JCCV4J+X9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

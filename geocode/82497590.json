@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auburn",
+               "short_name" : "Auburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lee County",
+               "short_name" : "Lee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36849",
+               "short_name" : "36849",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auburn, AL 36849, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.5933574,
+               "lng" : -85.49516629999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5947063802915,
+                  "lng" : -85.4938173197085
+               },
+               "southwest" : {
+                  "lat" : 32.5920084197085,
+                  "lng" : -85.4965152802915
+               }
+            }
+         },
+         "place_id" : "ChIJryBmEQvzjIgR9xLXUVxSkOw",
+         "plus_code" : {
+            "compound_code" : "HGV3+8W Auburn, Alabama, United States",
+            "global_code" : "864PHGV3+8W"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

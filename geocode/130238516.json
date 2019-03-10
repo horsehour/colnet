@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97399,
+               "lng" : -93.2277285
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9753389802915,
+                  "lng" : -93.2263795197085
+               },
+               "southwest" : {
+                  "lat" : 44.9726410197085,
+                  "lng" : -93.22907748029151
+               }
+            }
+         },
+         "place_id" : "ChIJ_8cK92kts1IReJnfUqEXEuM",
+         "plus_code" : {
+            "compound_code" : "XQFC+HW Minneapolis, Minnesota, United States",
+            "global_code" : "86P8XQFC+HW"
+         },
+         "types" : [
+            "establishment",
+            "health",
+            "point_of_interest",
+            "school",
+            "university"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

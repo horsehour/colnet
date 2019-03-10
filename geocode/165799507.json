@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "8th Street",
+               "short_name" : "8th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12180",
+               "short_name" : "12180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 8th St, Troy, NY 12180, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.730172,
+               "lng" : -73.67880300000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.73152098029149,
+                  "lng" : -73.67745401970852
+               },
+               "southwest" : {
+                  "lat" : 42.72882301970849,
+                  "lng" : -73.68015198029153
+               }
+            }
+         },
+         "place_id" : "ChIJfQn6654P3okRAlMf2xMrWaU",
+         "plus_code" : {
+            "compound_code" : "P8JC+3F Troy, New York, United States",
+            "global_code" : "87J8P8JC+3F"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

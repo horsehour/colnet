@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Transnordestina",
+               "short_name" : "Av. Transnordestina",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Novo Horizonte",
+               "short_name" : "Novo Horizonte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44036-900",
+               "short_name" : "44036-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Transnordestina, s/n, Novo Horizonte - BA, 44036-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.2004383,
+               "lng" : -38.9719222
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.1990893197085,
+                  "lng" : -38.9705732197085
+               },
+               "southwest" : {
+                  "lat" : -12.2017872802915,
+                  "lng" : -38.9732711802915
+               }
+            }
+         },
+         "place_id" : "ChIJD3nglUI4FAcRGp6SmkN-m24",
+         "plus_code" : {
+            "compound_code" : "Q2XH+R6 Feira de Santana - Maria Quitéria, Feira de Santana - State of Bahia, Brazil",
+            "global_code" : "59V3Q2XH+R6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

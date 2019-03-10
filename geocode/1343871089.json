@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87545",
+               "short_name" : "87545",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Mexico 87545, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.8440582,
+               "lng" : -106.287162
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8454071802915,
+                  "lng" : -106.2858130197085
+               },
+               "southwest" : {
+                  "lat" : 35.8427092197085,
+                  "lng" : -106.2885109802915
+               }
+            }
+         },
+         "place_id" : "ChIJZecir0YSGIcRtPFdDBeQWn8",
+         "plus_code" : {
+            "compound_code" : "RPV7+J4 Los Alamos, New Mexico, United States",
+            "global_code" : "857MRPV7+J4"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xianning West Road",
+               "short_name" : "Xianning W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "JiaoDa ShangYe JieQu",
+               "short_name" : "JiaoDa ShangYe JieQu",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Beilin Qu",
+               "short_name" : "Beilin Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Xian Shi",
+               "short_name" : "Xian Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaanxi Sheng",
+               "short_name" : "Shaanxi Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "28 Xianning W Rd, JiaoDa ShangYe JieQu, Beilin Qu, Xian Shi, Shaanxi Sheng, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.250803,
+               "lng" : 108.983693
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.25215198029151,
+                  "lng" : 108.9850419802915
+               },
+               "southwest" : {
+                  "lat" : 34.24945401970851,
+                  "lng" : 108.9823440197085
+               }
+            }
+         },
+         "place_id" : "ChIJUx-pPqV6YzYREe5HAphYVdI",
+         "plus_code" : {
+            "compound_code" : "7X2M+8F Beilin, Xi'an, Shaanxi, China",
+            "global_code" : "8P6C7X2M+8F"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

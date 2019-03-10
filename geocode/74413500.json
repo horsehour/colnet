@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "401",
+               "short_name" : "401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sunset Avenue",
+               "short_name" : "Sunset Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University",
+               "short_name" : "University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Windsor",
+               "short_name" : "Windsor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N9B 3P4",
+               "short_name" : "N9B 3P4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "401 Sunset Ave, Windsor, ON N9B 3P4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3043142,
+               "lng" : -83.06603899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3056631802915,
+                  "lng" : -83.06469001970848
+               },
+               "southwest" : {
+                  "lat" : 42.3029652197085,
+                  "lng" : -83.06738798029149
+               }
+            }
+         },
+         "place_id" : "ChIJ70vsxnctO4gR7kFOKhnxRBo",
+         "plus_code" : {
+            "compound_code" : "8W3M+PH Windsor, Ontario, Canada",
+            "global_code" : "86JR8W3M+PH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

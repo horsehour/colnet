@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jordanovac ulica",
+               "short_name" : "Jordanovac ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zagreb",
+               "short_name" : "Zagreb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10000",
+               "short_name" : "10000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jordanovac ul. 110, 10000, Zagreb, Croatia",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.8274594,
+               "lng" : 15.9986973
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.82880838029149,
+                  "lng" : 16.0000462802915
+               },
+               "southwest" : {
+                  "lat" : 45.82611041970849,
+                  "lng" : 15.9973483197085
+               }
+            }
+         },
+         "place_id" : "ChIJNcgwj6PXZUcR81Es3JVz2Wo",
+         "plus_code" : {
+            "compound_code" : "RXGX+XF Zagreb, Croatia",
+            "global_code" : "8FQQRXGX+XF"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Longfellow Boulevard",
+               "short_name" : "Longfellow Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeland",
+               "short_name" : "Lakeland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk County",
+               "short_name" : "Polk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33801",
+               "short_name" : "33801",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6099",
+               "short_name" : "6099",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1000 Longfellow Blvd, Lakeland, FL 33801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.0301306,
+               "lng" : -81.9179961
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0314795802915,
+                  "lng" : -81.91664711970849
+               },
+               "southwest" : {
+                  "lat" : 28.0287816197085,
+                  "lng" : -81.91934508029149
+               }
+            }
+         },
+         "place_id" : "ChIJJV2gVQ4_3YgRtDmOv7lZXag",
+         "plus_code" : {
+            "compound_code" : "23JJ+3R Lakeland, Florida, United States",
+            "global_code" : "76WW23JJ+3R"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 185th Street",
+               "short_name" : "W 185th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10033",
+               "short_name" : "10033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "500 W 185th St, New York, NY 10033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85067249999999,
+               "lng" : -73.9295149
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8520214802915,
+                  "lng" : -73.92816591970849
+               },
+               "southwest" : {
+                  "lat" : 40.8493235197085,
+                  "lng" : -73.93086388029151
+               }
+            }
+         },
+         "place_id" : "ChIJW3MEyRv0wokR-zchdG68drU",
+         "plus_code" : {
+            "compound_code" : "V32C+75 New York, United States",
+            "global_code" : "87G8V32C+75"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

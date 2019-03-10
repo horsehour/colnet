@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, NC, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9049122,
+               "lng" : -79.04691339999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.90626118029149,
+                  "lng" : -79.04556441970848
+               },
+               "southwest" : {
+                  "lat" : 35.9035632197085,
+                  "lng" : -79.0482623802915
+               }
+            }
+         },
+         "place_id" : "ChIJ66oXy9LCrIkR4OCXZJfwO7M",
+         "plus_code" : {
+            "compound_code" : "WX33+X6 Chapel Hill, NC, United States",
+            "global_code" : "8772WX33+X6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dogwood Mile Street",
+               "short_name" : "Dogwood Mile St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laurinburg",
+               "short_name" : "Laurinburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stewartsville",
+               "short_name" : "Stewartsville",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Scotland County",
+               "short_name" : "Scotland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28352",
+               "short_name" : "28352",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1700 Dogwood Mile St, Laurinburg, NC 28352, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.7448064,
+               "lng" : -79.48007109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7461553802915,
+                  "lng" : -79.47872211970848
+               },
+               "southwest" : {
+                  "lat" : 34.74345741970851,
+                  "lng" : -79.4814200802915
+               }
+            }
+         },
+         "place_id" : "ChIJn-2IdvIpVYgREcLObkIu3YI",
+         "plus_code" : {
+            "compound_code" : "PGV9+WX Laurinburg, Stewartsville, NC, United States",
+            "global_code" : "8762PGV9+WX"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Andrews",
+               "short_name" : "St Andrews",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY16 9AJ",
+               "short_name" : "KY16 9AJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Andrews KY16 9AJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.3416934,
+               "lng" : -2.7927522
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.34304238029151,
+                  "lng" : -2.791403219708498
+               },
+               "southwest" : {
+                  "lat" : 56.34034441970851,
+                  "lng" : -2.794101180291502
+               }
+            }
+         },
+         "place_id" : "ChIJA8s-X5tXhkgRI6EFf82RVC0",
+         "plus_code" : {
+            "compound_code" : "86R4+MV Saint Andrews, United Kingdom",
+            "global_code" : "9C8V86R4+MV"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

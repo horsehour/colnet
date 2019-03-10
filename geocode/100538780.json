@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wyllys Avenue",
+               "short_name" : "Wyllys Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middletown",
+               "short_name" : "Middletown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06459",
+               "short_name" : "06459",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45 Wyllys Ave, Middletown, CT 06459, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5566104,
+               "lng" : -72.65690409999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.55795938029151,
+                  "lng" : -72.65555511970848
+               },
+               "southwest" : {
+                  "lat" : 41.55526141970851,
+                  "lng" : -72.6582530802915
+               }
+            }
+         },
+         "place_id" : "ChIJXW9dlmBK5okRc5XVHylhJho",
+         "plus_code" : {
+            "compound_code" : "H84V+J6 Middletown, Connecticut, United States",
+            "global_code" : "87H9H84V+J6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

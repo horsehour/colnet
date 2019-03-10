@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "501",
+               "short_name" : "501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Saint Joseph Street",
+               "short_name" : "E St Joseph St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rapid City",
+               "short_name" : "Rapid City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pennington County",
+               "short_name" : "Pennington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57701",
+               "short_name" : "57701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "501 E St Joseph St, Rapid City, SD 57701, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.074166,
+               "lng" : -103.205931
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.07551498029149,
+                  "lng" : -103.2045820197085
+               },
+               "southwest" : {
+                  "lat" : 44.07281701970849,
+                  "lng" : -103.2072799802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4S8br89CfYcRRRQ62CaHQu0",
+         "plus_code" : {
+            "compound_code" : "3QFV+MJ Rapid City, Central Pennington, SD, United States",
+            "global_code" : "85PR3QFV+MJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

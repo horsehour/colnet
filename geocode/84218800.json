@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shields Ave",
+               "short_name" : "Shields Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davis",
+               "short_name" : "Davis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95616",
+               "short_name" : "95616",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Shields Ave, Davis, CA 95616, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5382322,
+               "lng" : -121.7617125
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5395811802915,
+                  "lng" : -121.7603635197085
+               },
+               "southwest" : {
+                  "lat" : 38.5368832197085,
+                  "lng" : -121.7630614802915
+               }
+            }
+         },
+         "place_id" : "ChIJP_qJdH_T6oARNIN-CCS7v-w",
+         "plus_code" : {
+            "compound_code" : "G6QQ+78 Davis, California, United States",
+            "global_code" : "84CWG6QQ+78"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

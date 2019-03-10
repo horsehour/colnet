@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xiaoyuan North Road",
+               "short_name" : "Xiaoyuan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "WuDaoKou",
+               "short_name" : "WuDaoKou",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Haidian Qu",
+               "short_name" : "Haidian Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Beijing Shi",
+               "short_name" : "Beijing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xiaoyuan N Rd, WuDaoKou, Haidian Qu, Beijing Shi, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.984492,
+               "lng" : 116.348175
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.98584098029149,
+                  "lng" : 116.3495239802915
+               },
+               "southwest" : {
+                  "lat" : 39.98314301970849,
+                  "lng" : 116.3468260197085
+               }
+            }
+         },
+         "place_id" : "ChIJlTInrAxU8DURXBSUARymmMo",
+         "plus_code" : {
+            "compound_code" : "X8MX+Q7 Haidian, Beijing, China",
+            "global_code" : "8PFRX8MX+Q7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

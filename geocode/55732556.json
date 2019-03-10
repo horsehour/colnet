@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tempe",
+               "short_name" : "Tempe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85281",
+               "short_name" : "85281",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tempe, AZ 85281, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4242399,
+               "lng" : -111.9280527
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.42558888029149,
+                  "lng" : -111.9267037197085
+               },
+               "southwest" : {
+                  "lat" : 33.42289091970849,
+                  "lng" : -111.9294016802915
+               }
+            }
+         },
+         "place_id" : "ChIJD1QzO9sIK4cRMzA8R39xbmY",
+         "plus_code" : {
+            "compound_code" : "C3FC+MQ Tempe, Arizona, United States",
+            "global_code" : "855CC3FC+MQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

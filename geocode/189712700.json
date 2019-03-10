@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Egg",
+               "short_name" : "Egg",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Konstanz",
+               "short_name" : "KN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konstanz",
+               "short_name" : "KN",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78464",
+               "short_name" : "78464",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitätsstraße 10, 78464 Konstanz, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.689426,
+               "lng" : 9.1868777
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6907749802915,
+                  "lng" : 9.188226680291503
+               },
+               "southwest" : {
+                  "lat" : 47.6880770197085,
+                  "lng" : 9.185528719708499
+               }
+            }
+         },
+         "place_id" : "ChIJ7ecyksn3mkcRmIn8Hf2jcpQ",
+         "plus_code" : {
+            "compound_code" : "M5QP+QQ Konstanz, Germany",
+            "global_code" : "8FVFM5QP+QQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

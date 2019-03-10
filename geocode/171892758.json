@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilhelm-Johnen-Straße",
+               "short_name" : "Wilhelm-Johnen-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jülich",
+               "short_name" : "Jülich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düren",
+               "short_name" : "DN",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52428",
+               "short_name" : "52428",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wilhelm-Johnen-Straße, 52428 Jülich, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9017564,
+               "lng" : 6.3983836
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.90310538029149,
+                  "lng" : 6.399732580291502
+               },
+               "southwest" : {
+                  "lat" : 50.9004074197085,
+                  "lng" : 6.397034619708498
+               }
+            }
+         },
+         "place_id" : "ChIJa_YcDGNcv0cRaoYxHDlLbJk",
+         "plus_code" : {
+            "compound_code" : "W92X+P9 Jülich, Germany",
+            "global_code" : "9F28W92X+P9"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

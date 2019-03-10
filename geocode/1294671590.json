@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Michel Ange",
+               "short_name" : "Rue Michel Ange",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75016",
+               "short_name" : "75016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3 Rue Michel Ange, 75016 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8476037,
+               "lng" : 2.2639934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8489526802915,
+                  "lng" : 2.265342380291502
+               },
+               "southwest" : {
+                  "lat" : 48.8462547197085,
+                  "lng" : 2.262644419708498
+               }
+            }
+         },
+         "place_id" : "ChIJDUDooLp65kcRb6IgXn7f430",
+         "plus_code" : {
+            "compound_code" : "R7X7+2H Paris, France",
+            "global_code" : "8FW4R7X7+2H"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue de l'Amiral Mouchez",
+               "short_name" : "Rue de l'Amiral Mouchez",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75014",
+               "short_name" : "75014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44 Rue de l'Amiral Mouchez, 75014 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8233099,
+               "lng" : 2.3412469
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.82465888029149,
+                  "lng" : 2.342595880291502
+               },
+               "southwest" : {
+                  "lat" : 48.82196091970849,
+                  "lng" : 2.339897919708498
+               }
+            }
+         },
+         "place_id" : "ChIJh7-nfqJx5kcRamWkAR6ywm4",
+         "plus_code" : {
+            "compound_code" : "R8FR+8F Paris, France",
+            "global_code" : "8FW4R8FR+8F"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

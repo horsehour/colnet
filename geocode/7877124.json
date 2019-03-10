@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Charitéplatz",
+               "short_name" : "Charitépl.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10117",
+               "short_name" : "10117",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Charitépl. 1, 10117 Berlin, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5264618,
+               "lng" : 13.3766245
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5278107802915,
+                  "lng" : 13.3779734802915
+               },
+               "southwest" : {
+                  "lat" : 52.5251128197085,
+                  "lng" : 13.3752755197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9dw3SJVRqEcRZp4sOB0XfEE",
+         "plus_code" : {
+            "compound_code" : "G9GG+HJ Berlin, Germany",
+            "global_code" : "9F4MG9GG+HJ"
+         },
+         "types" : [ "establishment", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

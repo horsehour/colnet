@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eimsbüttel",
+               "short_name" : "Eimsbüttel",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20146",
+               "short_name" : "20146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20146 Hamburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5665641,
+               "lng" : 9.984619499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5679130802915,
+                  "lng" : 9.985968480291501
+               },
+               "southwest" : {
+                  "lat" : 53.5652151197085,
+                  "lng" : 9.983270519708498
+               }
+            }
+         },
+         "place_id" : "ChIJH4su3e7ysUcRdZNDrzkoNlw",
+         "plus_code" : {
+            "compound_code" : "HX8M+JR Hamburg, Germany",
+            "global_code" : "9F5FHX8M+JR"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

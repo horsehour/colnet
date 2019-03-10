@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10655",
+               "short_name" : "10655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Steepletop Drive",
+               "short_name" : "Steepletop Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Steeplechase Corner",
+               "short_name" : "Steeplechase Corner",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77065",
+               "short_name" : "77065",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4297",
+               "short_name" : "4297",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "10655 Steepletop Dr, Houston, TX 77065, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.92749969999999,
+               "lng" : -95.58964429999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.92884868029149,
+                  "lng" : -95.58829531970849
+               },
+               "southwest" : {
+                  "lat" : 29.9261507197085,
+                  "lng" : -95.5909932802915
+               }
+            }
+         },
+         "place_id" : "ChIJTfLNVpbRQIYRoZlCAaCjylY",
+         "plus_code" : {
+            "compound_code" : "WCG6+X4 Steeplechase Corner, Texas, United States",
+            "global_code" : "76X6WCG6+X4"
+         },
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

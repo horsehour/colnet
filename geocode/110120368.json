@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4309",
+               "short_name" : "4309",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Acme Road",
+               "short_name" : "Acme Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ilion",
+               "short_name" : "Ilion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frankfort",
+               "short_name" : "Frankfort",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Herkimer County",
+               "short_name" : "Herkimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13357",
+               "short_name" : "13357",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5001",
+               "short_name" : "5001",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4309 Acme Rd, Ilion, NY 13357, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.02649299999999,
+               "lng" : -75.056736
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0278419802915,
+                  "lng" : -75.0553870197085
+               },
+               "southwest" : {
+                  "lat" : 43.0251440197085,
+                  "lng" : -75.05808498029151
+               }
+            }
+         },
+         "place_id" : "ChIJ5bsirRtM2YkR2bu1sYQMu08",
+         "plus_code" : {
+            "compound_code" : "2WGV+H8 Ilion, German Flatts, NY, United States",
+            "global_code" : "87M62WGV+H8"
+         },
+         "types" : [ "establishment", "funeral_home", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

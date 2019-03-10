@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haifa",
+               "short_name" : "Haifa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haifa",
+               "short_name" : "Haifa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haifa District",
+               "short_name" : "Haifa District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3200003",
+               "short_name" : "3200003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haifa, 3200003, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7767783,
+               "lng" : 35.0231271
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7781272802915,
+                  "lng" : 35.0244760802915
+               },
+               "southwest" : {
+                  "lat" : 32.7754293197085,
+                  "lng" : 35.0217781197085
+               }
+            }
+         },
+         "place_id" : "ChIJU_GqGJK6HRURnMB5PmvE7Zo",
+         "plus_code" : {
+            "compound_code" : "Q2GF+P7 Haifa, Israel",
+            "global_code" : "8G4QQ2GF+P7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

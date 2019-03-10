@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "450",
+               "short_name" : "450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Serra Mall",
+               "short_name" : "Serra Mall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "450 Serra Mall, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4274745,
+               "lng" : -122.169719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.42882348029149,
+                  "lng" : -122.1683700197085
+               },
+               "southwest" : {
+                  "lat" : 37.42612551970849,
+                  "lng" : -122.1710679802915
+               }
+            }
+         },
+         "place_id" : "ChIJneqLZyq7j4ARf2j8RBrwzSk",
+         "plus_code" : {
+            "compound_code" : "CRGJ+X4 Stanford, California, United States",
+            "global_code" : "849VCRGJ+X4"
+         },
+         "types" : [
+            "establishment",
+            "locality",
+            "point_of_interest",
+            "political",
+            "university"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

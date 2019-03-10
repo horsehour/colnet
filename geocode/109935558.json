@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Houhe Alley",
+               "short_name" : "Houhe Alley",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Haishu Qu",
+               "short_name" : "Haishu Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ningbo Shi",
+               "short_name" : "Ningbo Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang Sheng",
+               "short_name" : "Zhejiang Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "315000",
+               "short_name" : "315000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20 Houhe Alley, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China, 315000",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.88070669999999,
+               "lng" : 121.5325609
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.88205568029149,
+                  "lng" : 121.5339098802915
+               },
+               "southwest" : {
+                  "lat" : 29.8793577197085,
+                  "lng" : 121.5312119197085
+               }
+            }
+         },
+         "place_id" : "ChIJB2G7wahkTTQR0jhB9Zffaa8",
+         "plus_code" : {
+            "compound_code" : "VGJM+72 Haishu, Ningbo, Zhejiang, China",
+            "global_code" : "7QX3VGJM+72"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

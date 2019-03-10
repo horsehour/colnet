@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "360",
+               "short_name" : "360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huntington Avenue",
+               "short_name" : "Huntington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fenway/Kenmore",
+               "short_name" : "Fenway/Kenmore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "360 Huntington Ave, Boston, MA 02115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3398067,
+               "lng" : -71.08917169999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3411556802915,
+                  "lng" : -71.08782271970848
+               },
+               "southwest" : {
+                  "lat" : 42.3384577197085,
+                  "lng" : -71.0905206802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4VzPmRl644kRjLkiZeYAe8k",
+         "plus_code" : {
+            "compound_code" : "8WQ6+W8 Boston, Massachusetts, United States",
+            "global_code" : "87JC8WQ6+W8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

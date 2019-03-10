@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gilman Drive",
+               "short_name" : "Gilman Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92093",
+               "short_name" : "92093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9500 Gilman Dr, La Jolla, CA 92093, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8800604,
+               "lng" : -117.2340135
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.88140938029149,
+                  "lng" : -117.2326645197085
+               },
+               "southwest" : {
+                  "lat" : 32.87871141970849,
+                  "lng" : -117.2353624802915
+               }
+            }
+         },
+         "place_id" : "ChIJT69MQcQG3IARpz6Rifyqtu8",
+         "plus_code" : {
+            "compound_code" : "VQJ8+29 San Diego, California, United States",
+            "global_code" : "8544VQJ8+29"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

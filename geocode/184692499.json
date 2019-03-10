@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "601",
+               "short_name" : "601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "College Street",
+               "short_name" : "College St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clarksville",
+               "short_name" : "Clarksville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37044",
+               "short_name" : "37044",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "601 College St, Clarksville, TN 37044, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.53498,
+               "lng" : -87.35488549999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.53632898029149,
+                  "lng" : -87.35353651970848
+               },
+               "southwest" : {
+                  "lat" : 36.53363101970849,
+                  "lng" : -87.35623448029149
+               }
+            }
+         },
+         "place_id" : "ChIJn-h5Q7PZZIgRh2Tv9iC5tjA",
+         "plus_code" : {
+            "compound_code" : "GJMW+X2 Clarksville, Tennessee, United States",
+            "global_code" : "868JGJMW+X2"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "שד' בן-גוריון",
+               "short_name" : "שד' בן-גוריון",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "באר שבע",
+               "short_name" : "ב\"ש",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "באר שבע",
+               "short_name" : "באר שבע",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "מחוז הדרום",
+               "short_name" : "מחוז הדרום",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "שד' בן-גוריון 1, באר שבע, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.262218,
+               "lng" : 34.801461
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2635669802915,
+                  "lng" : 34.8028099802915
+               },
+               "southwest" : {
+                  "lat" : 31.2608690197085,
+                  "lng" : 34.8001120197085
+               }
+            }
+         },
+         "place_id" : "ChIJG8cBLl9mAhURk7hAwbBNyhU",
+         "plus_code" : {
+            "compound_code" : "7R62+VH Be'er Sheva, Israel",
+            "global_code" : "8G3P7R62+VH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

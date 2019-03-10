@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10а",
+               "short_name" : "10а",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ulitsa Vol'skaya",
+               "short_name" : "Ulitsa Vol'skaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saratov",
+               "short_name" : "Saratov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saratov",
+               "short_name" : "Saratov",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast'",
+               "short_name" : "Saratovskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "410028",
+               "short_name" : "410028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulitsa Vol'skaya, 10а, Saratov, Saratovskaya oblast', Russia, 410028",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5237367,
+               "lng" : 46.0195021
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5250856802915,
+                  "lng" : 46.02085108029151
+               },
+               "southwest" : {
+                  "lat" : 51.5223877197085,
+                  "lng" : 46.01815311970851
+               }
+            }
+         },
+         "place_id" : "ChIJAf9vT73HFEERpDG2oBJ1xXg",
+         "plus_code" : {
+            "compound_code" : "G2F9+FR Saratov, Saratov Oblast, Russia",
+            "global_code" : "9H38G2F9+FR"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

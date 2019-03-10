@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CABA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "C1925",
+               "short_name" : "C1925",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle 51 entre 124, C1925 La Plata, Buenos Aires, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.9003257,
+               "lng" : -57.9317889
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.8989767197085,
+                  "lng" : -57.93043991970849
+               },
+               "southwest" : {
+                  "lat" : -34.90167468029149,
+                  "lng" : -57.9331378802915
+               }
+            }
+         },
+         "place_id" : "ChIJwV1dXTfmopURlDyKtR55R_s",
+         "plus_code" : {
+            "compound_code" : "33X9+V7 Ensenada, Buenos Aires Province, Argentina",
+            "global_code" : "48Q433X9+V7"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

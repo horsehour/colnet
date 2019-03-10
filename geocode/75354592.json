@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "7th Street Southwest",
+               "short_name" : "7th St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southwest Washington",
+               "short_name" : "Southwest Washington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20024",
+               "short_name" : "20024",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2576",
+               "short_name" : "2576",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "400 7th St SW, Washington, DC 20024, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8836682,
+               "lng" : -77.02114859999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.88501718029149,
+                  "lng" : -77.01979961970848
+               },
+               "southwest" : {
+                  "lat" : 38.88231921970849,
+                  "lng" : -77.0224975802915
+               }
+            }
+         },
+         "place_id" : "ChIJvethp4K3t4kREXe5K_7uFU4",
+         "plus_code" : {
+            "compound_code" : "VXMH+FG Washington, District of Columbia, United States",
+            "global_code" : "87C4VXMH+FG"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

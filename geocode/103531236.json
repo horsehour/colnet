@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "140",
+               "short_name" : "140",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Commonwealth Avenue",
+               "short_name" : "Commonwealth Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chestnut Hill",
+               "short_name" : "Chestnut Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02467",
+               "short_name" : "02467",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "140 Commonwealth Avenue, Chestnut Hill, MA 02467, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3355488,
+               "lng" : -71.16849450000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3368977802915,
+                  "lng" : -71.16714551970851
+               },
+               "southwest" : {
+                  "lat" : 42.3341998197085,
+                  "lng" : -71.16984348029152
+               }
+            }
+         },
+         "place_id" : "ChIJydQlp11444kRbuu4pZCuaAs",
+         "plus_code" : {
+            "compound_code" : "8RPJ+6J Newton, Massachusetts, United States",
+            "global_code" : "87JC8RPJ+6J"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

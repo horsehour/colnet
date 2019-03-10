@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fenway/Kenmore",
+               "short_name" : "Fenway/Kenmore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02215",
+               "short_name" : "02215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston, MA 02215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3504997,
+               "lng" : -71.1053991
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3518486802915,
+                  "lng" : -71.1040501197085
+               },
+               "southwest" : {
+                  "lat" : 42.3491507197085,
+                  "lng" : -71.10674808029151
+               }
+            }
+         },
+         "place_id" : "ChIJFzjlY_B544kRyL6j4ABuNCs",
+         "plus_code" : {
+            "compound_code" : "9V2V+5R Boston, Massachusetts, United States",
+            "global_code" : "87JC9V2V+5R"
+         },
+         "types" : [ "establishment", "health", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

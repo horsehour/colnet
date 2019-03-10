@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Warren Avenue",
+               "short_name" : "W Warren Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wayne State",
+               "short_name" : "Wayne State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42 W Warren Ave, Detroit, MI 48202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3591388,
+               "lng" : -83.06654619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.36048778029149,
+                  "lng" : -83.06519721970848
+               },
+               "southwest" : {
+                  "lat" : 42.35778981970849,
+                  "lng" : -83.06789518029149
+               }
+            }
+         },
+         "place_id" : "ChIJQ9hCnbzSJIgRTl7fSYmWiLY",
+         "plus_code" : {
+            "compound_code" : "9W5M+M9 Detroit, Michigan, United States",
+            "global_code" : "86JR9W5M+M9"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

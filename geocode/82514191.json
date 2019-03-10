@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "2106",
+               "short_name" : "2106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 54th Street",
+               "short_name" : "S 54th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rogers",
+               "short_name" : "Rogers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Township 4",
+               "short_name" : "Township 4",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72758",
+               "short_name" : "72758",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8198",
+               "short_name" : "8198",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2106 S 54th St #4, Rogers, AR 72758, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.315385,
+               "lng" : -94.194316
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3167339802915,
+                  "lng" : -94.19296701970849
+               },
+               "southwest" : {
+                  "lat" : 36.3140360197085,
+                  "lng" : -94.19566498029151
+               }
+            }
+         },
+         "place_id" : "ChIJWb9MN6oRyYcRDZ0iBvtewAk",
+         "plus_code" : {
+            "compound_code" : "8R84+57 Rogers, Township 6, AR, United States",
+            "global_code" : "86878R84+57"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

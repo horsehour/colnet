@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sacaton",
+               "short_name" : "Sacaton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85147",
+               "short_name" : "85147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W Pima St & E Pima St, Sacaton, AZ 85147, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.0784879,
+               "lng" : -111.7386357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0798368802915,
+                  "lng" : -111.7372867197085
+               },
+               "southwest" : {
+                  "lat" : 33.0771389197085,
+                  "lng" : -111.7399846802915
+               }
+            }
+         },
+         "place_id" : "ChIJo0XFDqBQKocRj290iLN8cNY",
+         "plus_code" : {
+            "compound_code" : "37H6+9G Sacaton, Arizona, United States",
+            "global_code" : "855C37H6+9G"
+         },
+         "types" : [ "establishment", "gym", "health", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#16-16",
+               "short_name" : "#16-16",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Connexis",
+               "short_name" : "Connexis",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fusionopolis Way",
+               "short_name" : "Fusionopolis Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Queenstown",
+               "short_name" : "Queenstown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "138632",
+               "short_name" : "138632",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Fusionopolis Way, #16-16 Connexis, Singapore 138632",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2986573,
+               "lng" : 103.7875199
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.300006280291502,
+                  "lng" : 103.7888688802915
+               },
+               "southwest" : {
+                  "lat" : 1.297308319708498,
+                  "lng" : 103.7861709197085
+               }
+            }
+         },
+         "place_id" : "ChIJrU1RVwMa2jERPI-UTBHX3gE",
+         "plus_code" : {
+            "compound_code" : "7QXQ+F2 Singapore",
+            "global_code" : "6PH57QXQ+F2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

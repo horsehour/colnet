@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "875",
+               "short_name" : "875",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Randolph Street",
+               "short_name" : "N Randolph St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Virginia Square",
+               "short_name" : "Virginia Square",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arlington County",
+               "short_name" : "Arlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22217",
+               "short_name" : "22217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "875 N Randolph St, Arlington, VA 22217, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8807927,
+               "lng" : -77.108694
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8821416802915,
+                  "lng" : -77.10734501970849
+               },
+               "southwest" : {
+                  "lat" : 38.8794437197085,
+                  "lng" : -77.11004298029151
+               }
+            }
+         },
+         "place_id" : "ChIJeTUiPSS0t4kRhncr3fijF1s",
+         "plus_code" : {
+            "compound_code" : "VVJR+8G Arlington, Mason, VA, United States",
+            "global_code" : "87C4VVJR+8G"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

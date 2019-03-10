@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "210017",
+               "short_name" : "210017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gulou, Nanjing, China, 210017",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.039026,
+               "lng" : 118.752321
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0403749802915,
+                  "lng" : 118.7536699802915
+               },
+               "southwest" : {
+                  "lat" : 32.0376770197085,
+                  "lng" : 118.7509720197085
+               }
+            }
+         },
+         "place_id" : "ChIJf5iILHaLtTURAVECwImBQ6o",
+         "plus_code" : {
+            "compound_code" : "2QQ2+JW Gulou, Nanjing, Jiangsu, China",
+            "global_code" : "8P4W2QQ2+JW"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

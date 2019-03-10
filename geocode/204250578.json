@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92697",
+               "short_name" : "92697",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Irvine, CA 92697, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.6404952,
+               "lng" : -117.8442962
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.64184418029149,
+                  "lng" : -117.8429472197085
+               },
+               "southwest" : {
+                  "lat" : 33.63914621970849,
+                  "lng" : -117.8456451802915
+               }
+            }
+         },
+         "place_id" : "ChIJkb-SJQ7e3IAR7LfattDF-3k",
+         "plus_code" : {
+            "compound_code" : "J5R4+57 Irvine, California, United States",
+            "global_code" : "8554J5R4+57"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

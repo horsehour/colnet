@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Unter den Linden",
+               "short_name" : "Unter den Linden",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10099",
+               "short_name" : "10099",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unter den Linden 6, 10099 Berlin, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.517883,
+               "lng" : 13.3936551
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51923198029149,
+                  "lng" : 13.3950040802915
+               },
+               "southwest" : {
+                  "lat" : 52.51653401970849,
+                  "lng" : 13.3923061197085
+               }
+            }
+         },
+         "place_id" : "ChIJI0K8KtZNqEcRxSbyV3Fx5Kk",
+         "plus_code" : {
+            "compound_code" : "G99V+5F Berlin, Germany",
+            "global_code" : "9F4MG99V+5F"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

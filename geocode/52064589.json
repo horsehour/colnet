@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "James P Brawley Drive Southwest",
+               "short_name" : "James P Brawley Dr SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta University Center",
+               "short_name" : "Atlanta University Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30314",
+               "short_name" : "30314",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4358",
+               "short_name" : "4358",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "223 James P Brawley Dr SW, Atlanta, GA 30314, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7515658,
+               "lng" : -84.4112315
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7529147802915,
+                  "lng" : -84.40988251970849
+               },
+               "southwest" : {
+                  "lat" : 33.7502168197085,
+                  "lng" : -84.41258048029151
+               }
+            }
+         },
+         "place_id" : "ChIJAQAwoWgD9YgRyOk3ZYffE3U",
+         "plus_code" : {
+            "compound_code" : "QH2Q+JG Atlanta, Georgia, United States",
+            "global_code" : "865QQH2Q+JG"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "James P Brawley Drive Southwest",
+               "short_name" : "James P Brawley Dr SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta University Center",
+               "short_name" : "Atlanta University Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30314",
+               "short_name" : "30314",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "223 James P Brawley Dr SW, Atlanta, GA 30314, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.74825,
+               "lng" : -84.41306299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7495989802915,
+                  "lng" : -84.41171401970848
+               },
+               "southwest" : {
+                  "lat" : 33.7469010197085,
+                  "lng" : -84.41441198029149
+               }
+            }
+         },
+         "place_id" : "ChIJG1l-uWgD9YgRsnXFeS6ESfM",
+         "plus_code" : {
+            "compound_code" : "PHXP+7Q Atlanta, Georgia, United States",
+            "global_code" : "865QPHXP+7Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

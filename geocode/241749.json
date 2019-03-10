@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Old Schools",
+               "short_name" : "The Old Schools",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Trinity Ln",
+               "short_name" : "Trinity Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB2 1TN",
+               "short_name" : "CB2 1TN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Old Schools, Trinity Ln, Cambridge CB2 1TN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2042666,
+               "lng" : 0.1149085
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.20561558029149,
+                  "lng" : 0.116257480291502
+               },
+               "southwest" : {
+                  "lat" : 52.20291761970849,
+                  "lng" : 0.113559519708498
+               }
+            }
+         },
+         "place_id" : "ChIJqRIn1E532EcRu7Vt86uAyiE",
+         "plus_code" : {
+            "compound_code" : "6437+PX Cambridge, United Kingdom",
+            "global_code" : "9F426437+PX"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

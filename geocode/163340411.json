@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xi Kang Lu",
+               "short_name" : "Xi Kang Lu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou Qu",
+               "short_name" : "Gulou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing Shi",
+               "short_name" : "Nanjing Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu Sheng",
+               "short_name" : "Jiangsu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210029",
+               "short_name" : "210029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Xi Kang Lu, Gulou Qu, Nanjing Shi, Jiangsu Sheng, China, 210029",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.054204,
+               "lng" : 118.756843
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.05555298029149,
+                  "lng" : 118.7581919802915
+               },
+               "southwest" : {
+                  "lat" : 32.0528550197085,
+                  "lng" : 118.7554940197085
+               }
+            }
+         },
+         "place_id" : "ChIJI85vxmWLtTURdoob9ac3sMg",
+         "plus_code" : {
+            "compound_code" : "3Q34+MP Gulou, Nanjing, Jiangsu, China",
+            "global_code" : "8P4W3Q34+MP"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

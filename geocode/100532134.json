@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulevard du 11 Novembre 1918",
+               "short_name" : "Boulevard du 11 Novembre 1918",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villeurbanne",
+               "short_name" : "Villeurbanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "Rhône",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne-Rhône-Alpes",
+               "short_name" : "Auvergne-Rhône-Alpes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69100",
+               "short_name" : "69100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7795871,
+               "lng" : 4.8656025
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7809360802915,
+                  "lng" : 4.866951480291502
+               },
+               "southwest" : {
+                  "lat" : 45.7782381197085,
+                  "lng" : 4.864253519708497
+               }
+            }
+         },
+         "place_id" : "ChIJJW_YPRTq9EcRtxXG7Ny7_ns",
+         "plus_code" : {
+            "compound_code" : "QVH8+R6 Villeurbanne, France",
+            "global_code" : "8FQ6QVH8+R6"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

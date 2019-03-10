@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1111",
+               "short_name" : "1111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Fairfax Street",
+               "short_name" : "N Fairfax St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Town North",
+               "short_name" : "Old Town North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22314",
+               "short_name" : "22314",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1488",
+               "short_name" : "1488",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1111 N Fairfax St, Alexandria, VA 22314, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.816093,
+               "lng" : -77.03964999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.81744198029149,
+                  "lng" : -77.03830101970848
+               },
+               "southwest" : {
+                  "lat" : 38.81474401970849,
+                  "lng" : -77.0409989802915
+               }
+            }
+         },
+         "place_id" : "ChIJlWUBcO6wt4kR9pKbUH4SFTY",
+         "plus_code" : {
+            "compound_code" : "RX86+C4 Alexandria, Mason, VA, United States",
+            "global_code" : "87C4RX86+C4"
+         },
+         "types" : [ "establishment", "health", "physiotherapist", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

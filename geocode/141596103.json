@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Alameda da Universidade",
+               "short_name" : "Alameda da Universidade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lisboa",
+               "short_name" : "Lisboa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisboa",
+               "short_name" : "Lisboa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1649-004",
+               "short_name" : "1649-004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cidade Universitária, Alameda da Universidade, 1649-004 Lisboa, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.7526578,
+               "lng" : -9.158244999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7540067802915,
+                  "lng" : -9.156896019708496
+               },
+               "southwest" : {
+                  "lat" : 38.7513088197085,
+                  "lng" : -9.159593980291501
+               }
+            }
+         },
+         "place_id" : "ChIJ42PNMwMzGQ0RlzBgIHKUaQ4",
+         "plus_code" : {
+            "compound_code" : "QR3R+3P Lisbon, Portugal",
+            "global_code" : "8CCGQR3R+3P"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

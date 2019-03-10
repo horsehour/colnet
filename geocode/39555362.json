@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV4 7AL",
+               "short_name" : "CV4 7AL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Coventry CV4 7AL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3792525,
+               "lng" : -1.5614704
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3806014802915,
+                  "lng" : -1.560121419708498
+               },
+               "southwest" : {
+                  "lat" : 52.3779035197085,
+                  "lng" : -1.562819380291502
+               }
+            }
+         },
+         "place_id" : "ChIJ5T7VlsZKd0gRVCuLcHWNkqo",
+         "plus_code" : {
+            "compound_code" : "9CHQ+PC Coventry, United Kingdom",
+            "global_code" : "9C4W9CHQ+PC"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

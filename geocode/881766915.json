@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hankou Road",
+               "short_name" : "Hankou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou Qu",
+               "short_name" : "Gulou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nanjing Shi",
+               "short_name" : "Nanjing Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu Sheng",
+               "short_name" : "Jiangsu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210008",
+               "short_name" : "210008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22 Hankou Rd, Gulou Qu, Nanjing Shi, Jiangsu Sheng, China, 210008",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0568391,
+               "lng" : 118.7789602
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.05818808029149,
+                  "lng" : 118.7803091802915
+               },
+               "southwest" : {
+                  "lat" : 32.05549011970849,
+                  "lng" : 118.7776112197085
+               }
+            }
+         },
+         "place_id" : "ChIJWQXQIqOMtTURo7f2iSTrEqg",
+         "plus_code" : {
+            "compound_code" : "3Q4H+PH Gulou, Nanjing, Jiangsu, China",
+            "global_code" : "8P4W3Q4H+PH"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

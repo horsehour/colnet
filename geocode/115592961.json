@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2号",
+               "short_name" : "2号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mengxi Road",
+               "short_name" : "Mengxi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jingkou Qu",
+               "short_name" : "Jingkou Qu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Zhenjiang Shi",
+               "short_name" : "Zhenjiang Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu Sheng",
+               "short_name" : "Jiangsu Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "212000",
+               "short_name" : "212000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Mengxi Rd, Jingkou Qu, Zhenjiang Shi, Jiangsu Sheng, China, 212000",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.19758100000001,
+               "lng" : 119.466296
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.19892998029151,
+                  "lng" : 119.4676449802915
+               },
+               "southwest" : {
+                  "lat" : 32.19623201970851,
+                  "lng" : 119.4649470197085
+               }
+            }
+         },
+         "place_id" : "ChIJHcXvlVUqtDURlBrN0ZvyYXA",
+         "plus_code" : {
+            "compound_code" : "5FX8+2G Jingkou, Zhenjiang, Jiangsu, China",
+            "global_code" : "8P4X5FX8+2G"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

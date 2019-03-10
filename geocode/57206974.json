@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10003",
+               "short_name" : "10003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York, NY 10003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72951339999999,
+               "lng" : -73.9964609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7308623802915,
+                  "lng" : -73.99511191970851
+               },
+               "southwest" : {
+                  "lat" : 40.7281644197085,
+                  "lng" : -73.99780988029151
+               }
+            }
+         },
+         "place_id" : "ChIJwZVT9ZpZwokRBfO1cTF0MNo",
+         "plus_code" : {
+            "compound_code" : "P2H3+RC New York, United States",
+            "global_code" : "87G8P2H3+RC"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

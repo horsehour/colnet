@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "107",
+               "short_name" : "107",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Indiana Avenue",
+               "short_name" : "S Indiana Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bloomington",
+               "short_name" : "Bloomington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47405",
+               "short_name" : "47405",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "107 S Indiana Ave, Bloomington, IN 47405, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1784384,
+               "lng" : -86.5133166
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.17978738029149,
+                  "lng" : -86.51196761970849
+               },
+               "southwest" : {
+                  "lat" : 39.1770894197085,
+                  "lng" : -86.51466558029151
+               }
+            }
+         },
+         "place_id" : "ChIJM62JZ8JmbIgRNtQVs4ugmTQ",
+         "plus_code" : {
+            "compound_code" : "5FHP+9M Bloomington, Perry Township, IN, United States",
+            "global_code" : "86FM5FHP+9M"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

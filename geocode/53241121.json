@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "U.A.B.C.",
+               "short_name" : "U.A.B.C.",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ensenada",
+               "short_name" : "Ensenada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22870",
+               "short_name" : "22870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "U.A.B.C., 22870 Ensenada, B.C., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.8643581,
+               "lng" : -116.6680794
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8657070802915,
+                  "lng" : -116.6667304197085
+               },
+               "southwest" : {
+                  "lat" : 31.8630091197085,
+                  "lng" : -116.6694283802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-9BRjgiT2IAR-G5rHBrajiU",
+         "plus_code" : {
+            "compound_code" : "V87J+PQ Ensenada, Baja California, Mexico",
+            "global_code" : "8535V87J+PQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      }
+   ],
+   "status" : "OK"
+}

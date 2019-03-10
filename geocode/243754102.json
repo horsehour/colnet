@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Humberto Monte",
+               "short_name" : "Av. Humberto Monte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pici",
+               "short_name" : "Pici",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60440-593",
+               "short_name" : "60440-593",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. Humberto Monte, s/n - Pici, Fortaleza - CE, 60440-593, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7484821,
+               "lng" : -38.5766456
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.747133119708498,
+                  "lng" : -38.5752966197085
+               },
+               "southwest" : {
+                  "lat" : -3.749831080291503,
+                  "lng" : -38.5779945802915
+               }
+            }
+         },
+         "place_id" : "ChIJ5SAjWn1JxwcRYgPO3rYwaco",
+         "plus_code" : {
+            "compound_code" : "7C2F+J8 Fortaleza - Zone 1, Fortaleza - State of Ceará, Brazil",
+            "global_code" : "69837C2F+J8"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}

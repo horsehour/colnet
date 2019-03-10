@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southeast Technology Circle",
+               "short_name" : "SE Technology Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bentonville",
+               "short_name" : "Bentonville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Township 8",
+               "short_name" : "Township 8",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72712",
+               "short_name" : "72712",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2500 SE Technology Cir, Bentonville, AR 72712, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3606572,
+               "lng" : -94.1828163
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3620061802915,
+                  "lng" : -94.1814673197085
+               },
+               "southwest" : {
+                  "lat" : 36.3593082197085,
+                  "lng" : -94.18416528029151
+               }
+            }
+         },
+         "place_id" : "ChIJacSB3YIQyYcRdvS6BEWnYEI",
+         "plus_code" : {
+            "compound_code" : "9R68+7V Bentonville, Township 7, AR, United States",
+            "global_code" : "86879R68+7V"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

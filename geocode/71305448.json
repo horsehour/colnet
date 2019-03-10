@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitetskaya Ploshchad'",
+               "short_name" : "Universitetskaya Ploshchad'",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Voronez",
+               "short_name" : "Voronez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorod Voronezh",
+               "short_name" : "Gorod Voronezh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast'",
+               "short_name" : "Voronezhskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "394036",
+               "short_name" : "394036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universitetskaya Ploshchad', 1, Voronez, Voronezhskaya oblast', Russia, 394036",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.65667,
+               "lng" : 39.206036
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6580189802915,
+                  "lng" : 39.20738498029149
+               },
+               "southwest" : {
+                  "lat" : 51.6553210197085,
+                  "lng" : 39.2046870197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_9rYsFkuO0ERWmCQtgVUAE4",
+         "plus_code" : {
+            "compound_code" : "M644+MC Voronezh, Voronezh Oblast, Russia",
+            "global_code" : "9G3XM644+MC"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}
