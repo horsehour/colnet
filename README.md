@@ -39,6 +39,6 @@ To collect geolocation information (longitude and latitude data) of affiliationn
 
 - see **geocode.py**
 
-We visualize these affiliations on a map, and wire the coauthorship between authors, which gives the spatial collaboration network. The visualization tool we are using is [mpl_toolkits.basemap][https://matplotlib.org/basemap/users/installing.html].
+We visualize these affiliations on a map, and wire the coauthorship between authors, which gives the spatial collaboration network. The visualization tool we are using is [mpl_toolkits.basemap](https://matplotlib.org/basemap/users/installing.html).
 
 - see **summary.py**,**visualize_citnet.py**
