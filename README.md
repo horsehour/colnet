@@ -2,6 +2,9 @@
 
 Creating collaboration network from scratch, including crawling from Google Scholar and Microsoft Academic Search, visualization with Basemap
 
+![collaboration network][academicit2.png]
+
+
 **Step 1**:  **Crawling list of publications from Google Scholar Profile pages, or Preview version of Microsoft Academic**
 
 Google Scholar Profile: https://scholar.google.com/citations?user=[pid]&hl=en
