@@ -2,7 +2,7 @@
 
 Creating collaboration network from scratch, including crawling from Google Scholar and Microsoft Academic Search, visualization with Basemap
 
-![collaboration network][./academicit2.png]
+![collaboration network][https://github.com/horsehour/colnet/raw/master/academicit2.png]
 
 
 **Step 1**:  **Crawling list of publications from Google Scholar Profile pages, or Preview version of Microsoft Academic**
