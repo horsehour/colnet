@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize, LinearSegmentedColormap, PowerNorm
 
 def plot_map():
-    base = '/Users/chjiang/GitHub/collaboratenet/'
+    base = '.'
     
     df = pd.read_csv(base+'collaborate.csv')
     links=df[['lat1','lng1','lat2','lng2']]

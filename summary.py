@@ -1,5 +1,5 @@
 def extract_geolocs():
-    base = '/Users/chjiang/GitHub/collaboratenet/'
+    base = '.'
 
     authorsma = pd.read_csv(base+'authorsma.csv',dtype=str)
     authorsma.fillna('',inplace=True)

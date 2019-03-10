@@ -6,7 +6,7 @@ import pandas as pd
 class PaperProfile(scrapy.Spider):
     name = "PProfile"
     
-    base = '/Users/chjiang/GitHub/collaboratenet/'
+    base = ''
     papers = pd.read_json(base+'papersma.json')
     papers = np.unique(papers.paper)
   
@@ -27,7 +27,7 @@ class PaperProfile(scrapy.Spider):
         idx1, idx2 = url.rfind('/'), url.find('?')
         pid = url[idx1+1:idx2]
 	
-        base = '/Users/chjiang/GitHub/collaboratenet/'
+        base = '.'
         with open(base+'pidma/{}.json'.format(pid), 'wb') as f:
             f.write(response.body)
 

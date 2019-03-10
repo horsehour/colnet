@@ -5,7 +5,7 @@ class ZhiZhu(scrapy.Spider):
 
     def start_requests(self):
         for auth in ['gao', 'he', 'gallos', 'fefferman', 'havlin', 'cohen', 'blumenfeld']:
-            url = 'file:///Users/chjiang/GitHub/coauth/{}.htm'.format(auth)
+            url = 'file:///coauth/{}.htm'.format(auth)
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
